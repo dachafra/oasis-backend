@@ -1,0 +1,3042 @@
+[
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1996",
+    "standardname": "1996 - Eduardo Benot (Parque Santa Catalina)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1387",
+    "standardname": "1387 - Acceso Manuel de Falla"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1019",
+    "standardname": "1019 - Alameda de Colón (Iglesia de San Francisco)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1684",
+    "standardname": "1684 - Alameda de Colón"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1447",
+    "standardname": "1447 - Amurga (Casablanca)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1950",
+    "standardname": "1950 - Auditorio"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1690",
+    "standardname": "1690 - Aulario Ciencias Jurídicas"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1971",
+    "standardname": "1971 - Pintor Felo Monzón (Hipercor)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1176",
+    "standardname": "1176 - Juan Carlos I, 23"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1268",
+    "standardname": "1268 - Primero de Mayo, 1"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1370",
+    "standardname": "1370 - Av. Escaleritas, 84"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1357",
+    "standardname": "1357 - Juan Carlos I (Hospital Dr. Negrín)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1174",
+    "standardname": "1174 - Juan Carlos I, 9"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1071",
+    "standardname": "1071 - Alcalde Díaz Saavedra Navarro (Pl. Santa Isabel)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1040",
+    "standardname": "1040 - Alc. J. Ramírez Bethencourt (Carvajal)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1038",
+    "standardname": "1038 - Alc. J. Ramírez Bethencourt (Centro Insular de Deportes)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1642",
+    "standardname": "1642 - Alc. J. Ramírez Bethencourt (Parque Romano)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1656",
+    "standardname": "1656 - Amurga (Acceso a Los Granjeros)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1119",
+    "standardname": "1119 - Amurga (C.S. Cono Sur)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1156",
+    "standardname": "1156 - Amurga (C.S. Cono Sur)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1633",
+    "standardname": "1633 - Amurga (Ctra. San Juan de Dios)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1658",
+    "standardname": "1658 - Amurga (Carretera San Juan de Dios)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1158",
+    "standardname": "1158 - Amurga (Casas Terreras El Lasso, 33)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1135",
+    "standardname": "1135 - Amurga (Casas Terreras El Lasso, 33)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1137",
+    "standardname": "1137 - Amurga (Casas Terreras El Lasso, 1)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1160",
+    "standardname": "1160 - Amurga (Casas Terreras El Lasso, 1)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1141",
+    "standardname": "1141 - Amurga (El Lasso, bloque 17)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1164",
+    "standardname": "1164 - Amurga (El Lasso, bloque 17)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1162",
+    "standardname": "1162 - Amurga (El Lasso, bloque 4)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1139",
+    "standardname": "1139 - Amurga (El Lasso, bloque 5)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1541",
+    "standardname": "1541 - Amurga (Iglesia)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1556",
+    "standardname": "1556 - Amurga, frente Iglesia"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1445",
+    "standardname": "1445 - Amurga (Pº Blas Cabrera Felipe)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1702",
+    "standardname": "1702 - Av. de Ansite (Cementerio del Puerto)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1703",
+    "standardname": "1703 - Av. de Ansite (Cementerio del Puerto)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1036",
+    "standardname": "1036 - Av. de Canarias (San Telmo)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1072",
+    "standardname": "1072 - Av. de La Feria (Infecar)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1617",
+    "standardname": "1617 - Av. de La Feria (Infecar)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1595",
+    "standardname": "1595 - Av. de La Feria (Urbanización Los Geranios)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1608",
+    "standardname": "1608 - Av. de La Feria (Urbanización Los Geranios)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1061",
+    "standardname": "1061 - Av. Escaleritas (C.C. La Ballena)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1070",
+    "standardname": "1070 - Av. Escaleritas (C.C. La Ballena)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1299",
+    "standardname": "1299 - Av. Escaleritas (Cáritas)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1301",
+    "standardname": "1301 - Av. Escaleritas (Club La Cornisa)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1394",
+    "standardname": "1394 - Av. Escaleritas (Urb. Parque Central)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1059",
+    "standardname": "1059 - Av. Escaleritas (Urb. Sansofé)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1068",
+    "standardname": "1068 - Av. Escaleritas (Urb. Sansofé)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1368",
+    "standardname": "1368 - Av. Escaleritas, 104"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1371",
+    "standardname": "1371 - Av. Escaleritas, 109"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1366",
+    "standardname": "1366 - Av. Escaleritas, 114"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1392",
+    "standardname": "1392 - Av. Escaleritas, 169"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1401",
+    "standardname": "1401 - Av. Escaleritas, 178"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1310",
+    "standardname": "1310 - Av. Escaleritas, 48"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1297",
+    "standardname": "1297 - Av. Escaleritas, 51"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1377",
+    "standardname": "1377 - Av. Escaleritas, 57"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1372",
+    "standardname": "1372 - Av. Escaleritas, 70"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1375",
+    "standardname": "1375 - Av. Escaleritas, 79"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1373",
+    "standardname": "1373 - Av. Escaleritas, 95"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1057",
+    "standardname": "1057 - Av. Escaleritas, frente 111"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1789",
+    "standardname": "1789 - Garcia Lorca, 17"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1779",
+    "standardname": "1779 - Garcia Lorca, frente 14"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1069",
+    "standardname": "1069 - Guillermo Santana Rivero (Pacuco Penichet)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1063",
+    "standardname": "1063 - Guillermo Santana Rivero, frente 1"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1065",
+    "standardname": "1065 - Guillermo Santana Rivero, frente 19"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1067",
+    "standardname": "1067 - Guillermo Santana Rivero, frente 33"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1404",
+    "standardname": "1404 - Juan Carlos I (C.C. Las Ramblas)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1708",
+    "standardname": "1708 - Juan Carlos I (Rotonda Hospital Dr. Negrín)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1121",
+    "standardname": "1121 - Juan Carlos I, 10"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1123",
+    "standardname": "1123 - Juan Carlos I, 20"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1403",
+    "standardname": "1403 - Juan Carlos I, 50"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1039",
+    "standardname": "1039 - Juan XXIII (Clínica del Pino)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1196",
+    "standardname": "1196 - Juan XXIII (Clínica del Pino)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1041",
+    "standardname": "1041 - Juan XXIII (Colegio Canterbury)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1167",
+    "standardname": "1167 - Av. Marítima del Sur (Escuela de Arte)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1165",
+    "standardname": "1165 - Av. Marítima del Sur (Hospital Materno Insular)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1035",
+    "standardname": "1035 - Av. Marítima del Sur (Juan XXIII)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1398",
+    "standardname": "1398 - Mesa y López (C.S. Alcaravaneras)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1409",
+    "standardname": "1409 - Mesa y López (C.S. Alcaravaneras)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1400",
+    "standardname": "1400 - Mesa y López (Madera y Corcho)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1411",
+    "standardname": "1411 - Mesa y López (Madera y Corcho)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1734",
+    "standardname": "1734 - Mesa y López, 3"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1280",
+    "standardname": "1280 - Mesa y López, 38"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1511",
+    "standardname": "1511 - Mesa y López, 42"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1396",
+    "standardname": "1396 - Mesa y López, 7"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1497",
+    "standardname": "1497 - Mesa y López, 85"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1437",
+    "standardname": "1437 - Mesa y López, 86"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1347",
+    "standardname": "1347 - Pintor Felo Monzón (Bambú)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1725",
+    "standardname": "1725 - Pintor Felo Monzón (C.C. Siete Palmas)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1624",
+    "standardname": "1624 - Pintor Felo Monzón (frente Hipercor)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1188",
+    "standardname": "1188 - Pintor Felo Monzón (Trópico)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1186",
+    "standardname": "1186 - Pintor Felo Monzón, 1"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1698",
+    "standardname": "1698 - Pintor Felo Monzón, 17"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1173",
+    "standardname": "1173 - Pintor Felo Monzón, 2"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1721",
+    "standardname": "1721 - Pintor Felo Monzón, 22"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1700",
+    "standardname": "1700 - Pintor Felo Monzón, 25"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1637",
+    "standardname": "1637 - Pintor Felo Monzón, 28"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1638",
+    "standardname": "1638 - Pintor Felo Monzón, 29"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1636",
+    "standardname": "1636 - Pintor Felo Monzón, 37"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1723",
+    "standardname": "1723 - Pintor Felo Monzón, 38"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1243",
+    "standardname": "1243 - Primero De Mayo (Correos)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1262",
+    "standardname": "1262 - Primero de Mayo, 35"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1003",
+    "standardname": "1003 - Rafael Cabrera (San Telmo)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1957",
+    "standardname": "1957 - Semana de la Pasión, 13 (Las Coloradas)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1425",
+    "standardname": "1425 - Semana de la Pasion, 29"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1651",
+    "standardname": "1651 - Amurga (El Lasso, bloque 1)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1686",
+    "standardname": "1686 - Bernardino Correa Viera (C.S. Triana)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1689",
+    "standardname": "1689 - Bernardino Correa Viera, frente 13"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1682",
+    "standardname": "1682 - Biblioteca Universitaria"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1688",
+    "standardname": "1688 - Biblioteca Universitaria"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1002",
+    "standardname": "1002 - Francisco Go@idé, 103"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1273",
+    "standardname": "1273 - Osorio, 28"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1517",
+    "standardname": "1517 - Aconcagua (Colegio Casablanca III)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1512",
+    "standardname": "1512 - Aconcagua (Colegio Casablanca III)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1510",
+    "standardname": "1510 - Aconcagua, 1"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1621",
+    "standardname": "1621 - Aconcagua, 38"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1515",
+    "standardname": "1515 - Aconcagua, frente 3"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1029",
+    "standardname": "1029 - Agustín Millares Sall (Edificio Mapfre)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1364",
+    "standardname": "1364 - Agustina de Aragón (Iglesia San Marcos)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1362",
+    "standardname": "1362 - Agustina de Aragón, 145"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1360",
+    "standardname": "1360 - Agustina de Aragón, 67"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1282",
+    "standardname": "1282 - Albareda (Mercado del Puerto)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1028",
+    "standardname": "1028 - Albareda, 43"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1530",
+    "standardname": "1530 - Alcalde Díaz Saavedra Navarro (Prudencio Guzmán)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1302",
+    "standardname": "1302 - Alceste, 27"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1313",
+    "standardname": "1313 - Alfredo L. Jones, 1"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1610",
+    "standardname": "1610 - Alicante (C.S. San José)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1117",
+    "standardname": "1117 - Alicante (Colegio Islas Canarias)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1122",
+    "standardname": "1122 - Alicante (Colegio Islas Canarias)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1051",
+    "standardname": "1051 - Alm. Benítez Inglott (C.S. Escaleritas)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1049",
+    "standardname": "1049 - Alm. Benítez Inglott, 12"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1345",
+    "standardname": "1345 - Ana Benítez, 7"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1343",
+    "standardname": "1343 - Ana Benítez, frente 42"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1341",
+    "standardname": "1341 - Ana Benítez, frente 92"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1214",
+    "standardname": "1214 - Andenes, 19"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1190",
+    "standardname": "1190 - Andenes, 9"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1177",
+    "standardname": "1177 - Andenes, frente 15"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1197",
+    "standardname": "1197 - Andenes, frente 39"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1136",
+    "standardname": "1136 - Anton Dvorak, 5"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1519",
+    "standardname": "1519 - Archivero Joaquin Blanco Montesdeoca (Mimosa)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1520",
+    "standardname": "1520 - Archivero Joaquin Blanco Montesdeoca, 21"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1529",
+    "standardname": "1529 - Archivero Joaquín Blanco Montesdeoca (Rtda. Nicolás Díaz Chico)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1606",
+    "standardname": "1606 - Archivero Joaquin Blanco Montesdeoca, 3"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1597",
+    "standardname": "1597 - Archivero Joaquin Blanco Montesdeoca, frente 3"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1500",
+    "standardname": "1500 - Arequipa (Guaguas Municipales)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1169",
+    "standardname": "1169 - Arguineguín"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1238",
+    "standardname": "1238 - Arguineguín, 8"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1540",
+    "standardname": "1540 - Arminda (La Favorita)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1985",
+    "standardname": "1985 - Arminda, 28 (El Secadero)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1525",
+    "standardname": "1525 - Arminda, frente 1"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1980",
+    "standardname": "1980 - Arquitecto Laureano Arroyo (San Francisco de Paula)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1676",
+    "standardname": "1676 - Arquitecto Laureano Arroyo, 102 B"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1678",
+    "standardname": "1678 - Arquitecto Laureano Arroyo, 64"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1687",
+    "standardname": "1687 - Arquitecto Laureano Arroyo, 73"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1683",
+    "standardname": "1683 - Arquitecto Laureano Arroyo, 80"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1111",
+    "standardname": "1111 - Ayagaures (Tanatorio San Miguel)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1228",
+    "standardname": "1228 - Ayagaures (Tanatorio San Miguel)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1278",
+    "standardname": "1278 - Bandama, 25"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1220",
+    "standardname": "1220 - Barahona, 19"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1201",
+    "standardname": "1201 - Barahona, 77"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1203",
+    "standardname": "1203 - Barahona, frente 19"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1202",
+    "standardname": "1202 - Batería de San Juan"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1975",
+    "standardname": "1975 - Batería de San Juan"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1185",
+    "standardname": "1185 - Batería de San Juan, 16"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1187",
+    "standardname": "1187 - Batería de San Juan, 48"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1140",
+    "standardname": "1140 - Berlioz, 5"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1585",
+    "standardname": "1585 - Betania, 41"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1583",
+    "standardname": "1583 - Betania, 69"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1587",
+    "standardname": "1587 - Betania, 7"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1077",
+    "standardname": "1077 - Blas Cabrera Felipe (Carrefour)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1102",
+    "standardname": "1102 - Blas Cabrera Felipe (Carrefour)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1089",
+    "standardname": "1089 - Blas Cabrera Felipe (Iglesia Sta. Clara)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1094",
+    "standardname": "1094 - Blas Cabrera Felipe (Iglesia Sta. Clara)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1095",
+    "standardname": "1095 - Blas Cabrera Felipe (Martín Freire)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1098",
+    "standardname": "1098 - Blas Cabrera Felipe (Martín Freire)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1093",
+    "standardname": "1093 - Blas Cabrera Felipe (Parking Hosp. Materno Insular)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1096",
+    "standardname": "1096 - Blas Cabrera Felipe (Parking Hosp. Materno Insular)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1097",
+    "standardname": "1097 - Blas Cabrera Felipe, 14"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1100",
+    "standardname": "1100 - Blas Cabrera Felipe, frente 16"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1092",
+    "standardname": "1092 - Blas Cabrera Felipe, frente 306"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1536",
+    "standardname": "1536 - Buenos Aires, 43"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1480",
+    "standardname": "1480 - Camilo Martinón Navarro (Tiscamanita)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1754",
+    "standardname": "1754 - Camilo Martinón Navarro, 3"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1430",
+    "standardname": "1430 - Camilo Martinón Navarro, 30"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1422",
+    "standardname": "1422 - Camilo Martinón Navarro, 52"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1758",
+    "standardname": "1758 - Camilo Martinón Navarro, 69"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1756",
+    "standardname": "1756 - Camilo Martinón Navarro, frente 32"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1183",
+    "standardname": "1183 - Camino al Polvorín (Plaza del Sol Naciente)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1179",
+    "standardname": "1179 - Camino al Polvorín, 10"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1181",
+    "standardname": "1181 - Camino al Polvorín, 42"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1487",
+    "standardname": "1487 - Camino viejo El Cardón, 1"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1551",
+    "standardname": "1551 - Camino viejo El Cardón, 55"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1549",
+    "standardname": "1549 - Camino viejo El Cardón, frente 74"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1159",
+    "standardname": "1159 - Candelaria de Léon, 6"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1178",
+    "standardname": "1178 - Candelaria de León, 7"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1047",
+    "standardname": "1047 - Carlos Ma@idcio Blandy (Pl. Arucas)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1334",
+    "standardname": "1334 - Carmen Quintana, 1"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1336",
+    "standardname": "1336 - Carmen Quintana, 33"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1338",
+    "standardname": "1338 - Carmen Quintana, 71"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1335",
+    "standardname": "1335 - Carmen Quintana, frente 1"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1337",
+    "standardname": "1337 - Carmen Quintana, frente 35"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1339",
+    "standardname": "1339 - Carmen Quintana, frente 73"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1406",
+    "standardname": "1406 - Castillejos, 23"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1408",
+    "standardname": "1408 - Castillejos, 71"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1626",
+    "standardname": "1626 - Castillo, 16"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1733",
+    "standardname": "1733 - César Manrique, 12"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1724",
+    "standardname": "1724 - César Manrique, 3"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1701",
+    "standardname": "1701 - César Manrique, 88"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1728",
+    "standardname": "1728 - César Manrique, frente 102"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1182",
+    "standardname": "1182 - Concejal Andres Alvarado Janina (Local Social Hoya de La Plata)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1163",
+    "standardname": "1163 - Concejal Andres Alvarado Janina (Local Social Hoya de La Plata)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1110",
+    "standardname": "1110 - Córdoba (Bomberos Vegueta)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1644",
+    "standardname": "1644 - Córdoba (Bomberos Vegueta)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1114",
+    "standardname": "1114 - Córdoba, 19"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1116",
+    "standardname": "1116 - Córdoba, 29"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1107",
+    "standardname": "1107 - Córdoba, 40"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1118",
+    "standardname": "1118 - Córdoba, 49"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1115",
+    "standardname": "1115 - Córdoba, 54"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1120",
+    "standardname": "1120 - Córdoba, 71"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1109",
+    "standardname": "1109 - Córdoba, frente 31"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1113",
+    "standardname": "1113 - Córdoba, frente 49"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1290",
+    "standardname": "1290 - Coronel Rocha (Nueva Isleta)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1402",
+    "standardname": "1402 - Costa Rica, frente 33"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1386",
+    "standardname": "1386 - Cronista Martín Moreno, 8"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1332",
+    "standardname": "1332 - Cruz de Piedra, 9"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1333",
+    "standardname": "1333 - Cruz de Piedra, frente 7"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1459",
+    "standardname": "1459 - Cruz del Ovejero, 25"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1442",
+    "standardname": "1442 - Cruz del Ovejero, 28"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1797",
+    "standardname": "1797 - Cuesta Blanca, 3"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1780",
+    "standardname": "1780 - Cuesta Blanca, 41"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1778",
+    "standardname": "1778 - Cuesta Blanca, 9"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1795",
+    "standardname": "1795 - Cuesta Blanca, frente 11"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1060",
+    "standardname": "1060 - Deán Rodríguez Bolaños (Pl. Alvarado y Saz)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1130",
+    "standardname": "1130 - Debussy, 3"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1132",
+    "standardname": "1132 - Debussy, 9"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1134",
+    "standardname": "1134 - Debussy, frente  6"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1074",
+    "standardname": "1074 - Diego Betancor Suárez, 19"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1076",
+    "standardname": "1076 - Diego Betancor Suárez, 39"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1943",
+    "standardname": "1943 - Doctor Juan Domínguez Pérez (El Sebadal)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1557",
+    "standardname": "1557 - Doctor Juan Domínguez Pérez, 18"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1555",
+    "standardname": "1555 - Doctor Juan Domínguez Pérez, 2"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1554",
+    "standardname": "1554 - Doctor Juan Domínguez Pérez, 25"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1568",
+    "standardname": "1568 - Doctor Juan Domínguez Pérez, 49"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1451",
+    "standardname": "1451 - Doctor Sventenius (enlace líneas 12-13)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1127",
+    "standardname": "1127 - Doctor Sventenius, frente 16"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1300",
+    "standardname": "1300 - Don Pedro Infinito (Iglesia Los Dolores)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1363",
+    "standardname": "1363 - Don Pedro Infinito, 120"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1365",
+    "standardname": "1365 - Don Pedro Infinito, 152"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1367",
+    "standardname": "1367 - Don Pedro Infinito, 194"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1369",
+    "standardname": "1369 - Don Pedro Infinito, 204"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1291",
+    "standardname": "1291 - Don Pedro Infinito, 24"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1328",
+    "standardname": "1328 - Don Pedro Infinito, 54"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1774",
+    "standardname": "1774 - Dña. J. Marrero, 11"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1776",
+    "standardname": "1776 - Dña. J. Marrero, 61"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1783",
+    "standardname": "1783 - Dña. J. Marrero, 70"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1781",
+    "standardname": "1781 - Dña. J. Marrero, frente 11"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1075",
+    "standardname": "1075 - Dr. Hernán Pérez de Grado (La Portadilla)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1073",
+    "standardname": "1073 - Dr. Hernán Pérez de Grado, 6"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1054",
+    "standardname": "1054 - Echegaray, 137"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1027",
+    "standardname": "1027 - Eduardo Benot, frente 23"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1025",
+    "standardname": "1025 - Eduardo Benot, frente 5"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1292",
+    "standardname": "1292 - Eduardo Peñate Santana, local 4"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1775",
+    "standardname": "1775 - Olivo (Carretera de Almatriche)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1397",
+    "standardname": "1397 - Emilio Arrieta, frente 7"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1266",
+    "standardname": "1266 - Emilio Ley (Parque Doramas)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1253",
+    "standardname": "1253 - Emilio Ley (Piscinas Julio Navarro)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1258",
+    "standardname": "1258 - Ernest Hemingway (Colegio El Batán)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1254",
+    "standardname": "1254 - Ernest Hemingway, 9"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1256",
+    "standardname": "1256 - Ernest Hemingway, frente 132"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/15",
+    "standardname": "15 - Eufemiano Jurado (Reyes Católicos)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/14",
+    "standardname": "14 - Eufemiano Jurado (Juzgados)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1078",
+    "standardname": "1078 - Eufemiano Jurado (Juzgados)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1080",
+    "standardname": "1080 - Eufemiano Jurado, frente 32"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1212",
+    "standardname": "1212 - Fama, 73"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1195",
+    "standardname": "1195 - Fama, frente 85"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1161",
+    "standardname": "1161 - Farmacéutico Arencibia Cabrera (Cofarca)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1260",
+    "standardname": "1260 - Farmacéutico Arencibia Cabrera (Cofarca)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1527",
+    "standardname": "1527 - Farmacéutico Arencibia Cabrera, 28"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1532",
+    "standardname": "1532 - Farmacéutico Arencibia Cabrera, frente 18"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1356",
+    "standardname": "1356 - Farmacéutico Pedro Rivero (Joaquín Belón)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1315",
+    "standardname": "1315 - Farmacéutico Pedro Rivero (Polígono Cruz de Piedra)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1352",
+    "standardname": "1352 - Farmacéutico Pedro Rivero, 1"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1359",
+    "standardname": "1359 - Farmacéutico Pedro Rivero, 20"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1208",
+    "standardname": "1208 - Farnesio, 13"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1210",
+    "standardname": "1210 - Farnesio, 53"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1191",
+    "standardname": "1191 - Farnesio, frente 15"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1193",
+    "standardname": "1193 - Farnesio, frente 59"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1284",
+    "standardname": "1284 - Faro, 11"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1286",
+    "standardname": "1286 - Faro, 43"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1288",
+    "standardname": "1288 - Faro, 99"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1277",
+    "standardname": "1277 - Felipe Martel (Lindero)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1488",
+    "standardname": "1488 - Fernando Guanarteme (Pl. Betancores)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1486",
+    "standardname": "1486 - Fernando Guanarteme (Plta. Farray)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1413",
+    "standardname": "1413 - Fernando Guanarteme, 118"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1478",
+    "standardname": "1478 - Fernando Guanarteme, 138"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1476",
+    "standardname": "1476 - Fernando Guanarteme, 150"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1495",
+    "standardname": "1495 - Fernando Guanarteme, 185"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1482",
+    "standardname": "1482 - Fernando Guanarteme, 62"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1635",
+    "standardname": "1635 - Fondos de Segura, frente 17"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1129",
+    "standardname": "1129 - Francisco Inglott Artiles,  6"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1150",
+    "standardname": "1150 - Francisco Inglott Artiles, 19"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1152",
+    "standardname": "1152 - Francisco Inglott Artiles, 33"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1274",
+    "standardname": "1274 - Pío XII, 75"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1259",
+    "standardname": "1259 - Galicia (Mercado Central)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1276",
+    "standardname": "1276 - Galicia (Mercado Central)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1261",
+    "standardname": "1261 - Galicia, 32"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1661",
+    "standardname": "1661 - Galilea, 31"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1618",
+    "standardname": "1618 - Galilea, 8"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1599",
+    "standardname": "1599 - Galilea, frente 6"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1972",
+    "standardname": "1972 - Gavilan (Residencial Los Granjeros)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1607",
+    "standardname": "1607 - Gobernador Marín Acuña (Hospital Juan Carlos I)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1351",
+    "standardname": "1351 - Gobernador Marín Acuña (Real del Castillo)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1355",
+    "standardname": "1355 - Gobernador Marín Acuña, 24"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1353",
+    "standardname": "1353 - Gobernador Marín Acuña, 50"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1673",
+    "standardname": "1673 - Guantánamo (Centro P. Salto del Negro)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1657",
+    "standardname": "1657 - Guantánamo, 108"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1662",
+    "standardname": "1662 - Guantánamo, 115"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1664",
+    "standardname": "1664 - Guantánamo, 165"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1674",
+    "standardname": "1674 - Guantánamo, 215"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1655",
+    "standardname": "1655 - Guantánamo, frente 121"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1271",
+    "standardname": "1271 - Gumidafe, 30"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1768",
+    "standardname": "1768 - Habana, 27"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1777",
+    "standardname": "1777 - Habana, 28"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1596",
+    "standardname": "1596 - Hebrón, 2"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1598",
+    "standardname": "1598 - Hebrón, 24"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1056",
+    "standardname": "1056 - Henry Dunant, frente 10"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1384",
+    "standardname": "1384 - Henry Dunant, frente 42"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1157",
+    "standardname": "1157 - Hoya de La Plata"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1670",
+    "standardname": "1670 - Hoya del Enamorado (IES José Saramago)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1663",
+    "standardname": "1663 - Hoya del Enamorado (IES José Saramago)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1407",
+    "standardname": "1407 - Ind. José Sánchez Peñate (C.C. Las Arenas)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1245",
+    "standardname": "1245 - Ingeniero J. Bosch y Sintes, 1"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1679",
+    "standardname": "1679 - Isla de La Graciosa, 41"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1677",
+    "standardname": "1677 - Isla de La Graciosa, frente 42"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1675",
+    "standardname": "1675 - Isla de La Graciosa, frente 72"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1685",
+    "standardname": "1685 - Isla de La Montaña Clara, frente 5"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1457",
+    "standardname": "1457 - José Luis Guerra de Armas (Alonso Quijano)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1440",
+    "standardname": "1440 - José Luis Guerra de Armas (Cruce de Las Coloradas)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1204",
+    "standardname": "1204 - Juan de Quesada (Rectorado ULPGC)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1432",
+    "standardname": "1432 - Juan Manuel Durán González, 20"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1316",
+    "standardname": "1316 - Juan Manuel Durán González, 40"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1031",
+    "standardname": "1031 - Juan Rejón (Castillo de La Luz)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1034",
+    "standardname": "1034 - Juan Rejón, 67"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1030",
+    "standardname": "1030 - Juan Rejón, 25"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1434",
+    "standardname": "1434 - Juan Sánchez de la Coba, 16"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1131",
+    "standardname": "1131 - Juan Sánchez de la Coba, 2"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1331",
+    "standardname": "1331 - Juan Saraza Ortíz, 14"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1330",
+    "standardname": "1330 - Juan Saraza Ortíz, frente 7"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1138",
+    "standardname": "1138 - Juan Sebastian Bach, frente 4"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1665",
+    "standardname": "1665 - Judas Tadeo (Barranquillo)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1959",
+    "standardname": "1959 - Judas Tadeo (Isla Perdida)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1672",
+    "standardname": "1672 - Judas Tadeo, 34"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1693",
+    "standardname": "1693 - Judas Tadeo, 36"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1735",
+    "standardname": "1735 - Judas Tadeo, 61"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1726",
+    "standardname": "1726 - Judas Tadeo, 66"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1490",
+    "standardname": "1490 - Junco (Amapola)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1498",
+    "standardname": "1498 - Junco (Hiperdino)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1222",
+    "standardname": "1222 - La Matula, 25"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1224",
+    "standardname": "1224 - La Matula, 65"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1226",
+    "standardname": "1226 - La Matula, 97"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1033",
+    "standardname": "1033 - Juan Rejón (frente Bomberos La Isleta)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1604",
+    "standardname": "1604 - Las Borreras, 1"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1627",
+    "standardname": "1627 - Las Borreras, 10"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1629",
+    "standardname": "1629 - Las Borreras, frente 1"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1791",
+    "standardname": "1791 - Lázaro de Ortega (Ciudad del Campo)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1793",
+    "standardname": "1793 - Lázaro de Ortega, 39"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1513",
+    "standardname": "1513 - Lentini (Monopol)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1013",
+    "standardname": "1013 - León y Castillo (C.N. Metropole)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1441",
+    "standardname": "1441 - León y Castillo (Club Náutico)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1016",
+    "standardname": "1016 - León y Castillo (Colegio Salesiano)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1022",
+    "standardname": "1022 - León y Castillo (Edificio José Antonio)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1015",
+    "standardname": "1015 - León y Castillo (Oficinas Municipales)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1008",
+    "standardname": "1008 - Leon y Castillo (Pl. de La Feria)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1017",
+    "standardname": "1017 - León y Castillo (Torre Las Palmas)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1006",
+    "standardname": "1006 - León y Castillo, 13"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1010",
+    "standardname": "1010 - León y Castillo, 145"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1012",
+    "standardname": "1012 - León y Castillo, 185"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1014",
+    "standardname": "1014 - León y Castillo, 209"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1042",
+    "standardname": "1042 - Dr. Waksman (Pl. de La Feria)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1970",
+    "standardname": "1970 - Leonardo Torriani (Zárate)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1773",
+    "standardname": "1773 - Leopoldo Alonso"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1741",
+    "standardname": "1741 - Leopoldo Alonso, 5"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1987",
+    "standardname": "1987 - Lomo de La Cruz"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1762",
+    "standardname": "1762 - L. Suárez Rivero, 22"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1418",
+    "standardname": "1418 - L. Suárez Rivero, 9"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1760",
+    "standardname": "1760 - L. Suárez Rivero, frente 51"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1200",
+    "standardname": "1200 - Los Manzanos"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1009",
+    "standardname": "1009 - Luis Doreste Silva, 22"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1037",
+    "standardname": "1037 - Luis Doreste Silva, 50"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1265",
+    "standardname": "1265 - Luján Pérez, 20"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1267",
+    "standardname": "1267 - Luján Pérez, 66"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1508",
+    "standardname": "1508 - Madreselva"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1501",
+    "standardname": "1501 - Madreselva, frente 69"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1566",
+    "standardname": "1566 - Manuel de Falla (Colegio La Paterna)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1562",
+    "standardname": "1562 - Manuel de Falla (Nueva Paterna)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1378",
+    "standardname": "1378 - Manuel de Falla (Salida de La Paterna)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1391",
+    "standardname": "1391 - Manuel de Falla, frente 11"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1389",
+    "standardname": "1389 - Manuel de Falla, frente 118"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1564",
+    "standardname": "1564 - Manuel de Falla, frente 52"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1949",
+    "standardname": "1949 - Manuel de Falla, frente 56"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1395",
+    "standardname": "1395 - Manuel de Falla, frente 72"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1393",
+    "standardname": "1393 - Manuel de Falla, frente 84"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1695",
+    "standardname": "1695 - Manzanilla, frente 14"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1414",
+    "standardname": "1414 - Maria Dolorosa, 1"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1548",
+    "standardname": "1548 - Marianao, 103"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1091",
+    "standardname": "1091 - Marianao, 12"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1544",
+    "standardname": "1544 - Marianao, 5"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1546",
+    "standardname": "1546 - Marianao, 53"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1533",
+    "standardname": "1533 - Marianao, 60"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1660",
+    "standardname": "1660 - Marianao, frente 82"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1722",
+    "standardname": "1722 - Mariucha (Canódromo)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1289",
+    "standardname": "1289 - Mariucha (Plaza Don Benito)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1064",
+    "standardname": "1064 - Mariucha, 139"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1066",
+    "standardname": "1066 - Mariucha, 171"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1250",
+    "standardname": "1250 - Miguel Ángel Ast@idas (Iglesia El Batan)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1231",
+    "standardname": "1231 - Miguel Ángel Ast@idas (Iglesia El Batan)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1229",
+    "standardname": "1229 - Miguel Ángel Ast@idas, 5"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1248",
+    "standardname": "1248 - Miguel Ángel Ast@idas, Frente 5"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1105",
+    "standardname": "1105 - Miguel Martin Fernandez de la Torre, 7"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1694",
+    "standardname": "1694 - Miguel Martin Fernandez de la Torre (Centro de Menores)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1712",
+    "standardname": "1712 - Mimosa"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1717",
+    "standardname": "1717 - Mimosa"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1454",
+    "standardname": "1454 - Mimosa (Gardenia)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1535",
+    "standardname": "1535 - Monterrey, 1"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1494",
+    "standardname": "1494 - Munguía, 8"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1506",
+    "standardname": "1506 - Mimosa, 27-29"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1192",
+    "standardname": "1192 - Néstor Álamo (Campo de Lucha)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1216",
+    "standardname": "1216 - Nueva, 35"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1614",
+    "standardname": "1614 - Nueva, 73"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1218",
+    "standardname": "1218 - Nueva, 77"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1175",
+    "standardname": "1175 - Nueva, frente 67"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1199",
+    "standardname": "1199 - Nueva, frente 25"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1410",
+    "standardname": "1410 - Numancia, 68"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1306",
+    "standardname": "1306 - Obispo Romo (Mercado de Altavista)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1308",
+    "standardname": "1308 - Obispo Romo (Parque Hermanos Millares)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1295",
+    "standardname": "1295 - Obispo Romo, frente 27"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1766",
+    "standardname": "1766 - Olivo (Carretera de Almatriche)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1314",
+    "standardname": "1314 - Olof Palme, 40"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1630",
+    "standardname": "1630 - Orinoco"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1275",
+    "standardname": "1275 - Osorio, 58"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1973",
+    "standardname": "1973 - Otoño (Hoya Andrea)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1294",
+    "standardname": "1294 - Palmar, frente 82"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1711",
+    "standardname": "1711 - Pardela 14"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1106",
+    "standardname": "1106 - Párroco José C. Quintana, 15"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1101",
+    "standardname": "1101 - Párroco José C. Quintana, 30"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1108",
+    "standardname": "1108 - Párroco José C. Quintana, 41"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1103",
+    "standardname": "1103 - Párroco José C. Quintana, 46"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1099",
+    "standardname": "1099 - Párroco José C. Quintana, 8"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1104",
+    "standardname": "1104 - Párroco José C. Quintana, frente 8"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1052",
+    "standardname": "1052 - Párroco Matías Artiles"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1233",
+    "standardname": "1233 - Párroco Segundo Vega, 116"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1237",
+    "standardname": "1237 - Párroco Segundo Vega, 166"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1239",
+    "standardname": "1239 - Párroco Segundo Vega, 220"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1241",
+    "standardname": "1241 - Párroco Segundo Vega, 276"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1235",
+    "standardname": "1235 - Párroco Segundo Vega, frente 121"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1344",
+    "standardname": "1344 - Párroco Segundo Vega, frente 238"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1045",
+    "standardname": "1045 - Párroco Villar Reina, 154 (Barranquillo D. Zoilo)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1050",
+    "standardname": "1050 - Párroco Villar Reina, 61 (Barranquillo D. Zoilo)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1043",
+    "standardname": "1043 - Párroco Villar Reina, 80 (Barranquillo D. Zoilo)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1264",
+    "standardname": "1264 - Tomás Morales, 5"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1126",
+    "standardname": "1126 - Pedro Hidalgo, 35"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1128",
+    "standardname": "1128 - Pedro Hidalgo, 53"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1166",
+    "standardname": "1166 - Pedro Hidalgo, 97"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1147",
+    "standardname": "1147 - Pedro Hidalgo, frente 91"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1581",
+    "standardname": "1581 - Pepe Dámaso, 12"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1576",
+    "standardname": "1576 - Pepe Dámaso, 17"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1349",
+    "standardname": "1349 - Pepe Dámaso, 32"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1388",
+    "standardname": "1388 - Pepe Dámaso, 43"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1048",
+    "standardname": "1048 - Pérez del Toro (Pl. Dr. Juan Bosch Millares)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1046",
+    "standardname": "1046 - Pérez del Toro, 13"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1421",
+    "standardname": "1421 - Pérez Muñoz, 100"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1417",
+    "standardname": "1417 - Pérez Muñoz, 34"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1419",
+    "standardname": "1419 - Pérez Muñoz, 78"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1534",
+    "standardname": "1534 - Pino Apolinario (Iglesia Lomo Apolinario)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1342",
+    "standardname": "1342 - Pino Apolinario, 53"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1559",
+    "standardname": "1559 - Pino Apolinario, 86"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1340",
+    "standardname": "1340 - Pino Apolinario, 9"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1772",
+    "standardname": "1772 - Pintor Juan Guillermo (C.C. La Minilla)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1770",
+    "standardname": "1770 - Pintor Juan Guillermo, frente 19"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1053",
+    "standardname": "1053 - Pintor Juan Ismael (Iglesia Redonda)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1255",
+    "standardname": "1255 - Pío XII (Colegio Teresiano)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1270",
+    "standardname": "1270 - Pío XII (Colegio Teresiano)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1257",
+    "standardname": "1257 - Pío XII (Estadio Insular)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1272",
+    "standardname": "1272 - Pío XII (Estadio Insular)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1757",
+    "standardname": "1757 - Plutón (CEIP Hoya Andrea)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1739",
+    "standardname": "1739 - Plutón, frente 14"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1024",
+    "standardname": "1024 - Presidente Alvear (Iglesia del Pino)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1058",
+    "standardname": "1058 - Presidente Alvear, 17"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1279",
+    "standardname": "1279 - Primero de Mayo, 56"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1543",
+    "standardname": "1543 - Profesor Lozano (Canarias 7)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1639",
+    "standardname": "1639 - Profesor Lozano (Catamarca)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1641",
+    "standardname": "1641 - Profesor Lozano (Rotonda Arequipa)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1552",
+    "standardname": "1552 - Profesor Lozano, 10"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1648",
+    "standardname": "1648 - Profesor Lozano, 34"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1198",
+    "standardname": "1198 - Real de San Juan (Antigua Cárcel)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1433",
+    "standardname": "1433 - Real de San Juan, 14"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1431",
+    "standardname": "1431 - Real de San Juan, 2"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1221",
+    "standardname": "1221 - Real de San Juan, 62"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1435",
+    "standardname": "1435 - Real de San Juan, frente 89"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1206",
+    "standardname": "1206 - Real de S. Roque, 13"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1189",
+    "standardname": "1189 - Real de S. Roque, frente 11"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1348",
+    "standardname": "1348 - Real del Castillo"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1667",
+    "standardname": "1667 - Real del Castillo"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1669",
+    "standardname": "1669 - Real del Castillo (San Nicolás)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1350",
+    "standardname": "1350 - Real del Castillo, 117"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1171",
+    "standardname": "1171 - Reyes Católicos, 9"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1785",
+    "standardname": "1785 - Roque Nublo, 4"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1154",
+    "standardname": "1154 - Sabino Berthelot, 19"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1643",
+    "standardname": "1643 - Sabino Berthelot, 26"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1650",
+    "standardname": "1650 - Sabino Berthelot, 39"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1133",
+    "standardname": "1133 - Sabino Berthelot, 6"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1172",
+    "standardname": "1172 - Salamanca, 135"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1974",
+    "standardname": "1974 - Salamanca, 171 (Pedro Hidalgo)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1168",
+    "standardname": "1168 - Salamanca, 63"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1170",
+    "standardname": "1170 - Salamanca, 99"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1424",
+    "standardname": "1424 - San Andrés, 28"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1623",
+    "standardname": "1623 - San Andrés, 39"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1620",
+    "standardname": "1620 - San Andrés, 6"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1601",
+    "standardname": "1601 - San Andrés, frente 6"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1589",
+    "standardname": "1589 - San Borondón, 10"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1153",
+    "standardname": "1153 - San Cristóbal de La Laguna,  frente 133"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1155",
+    "standardname": "1155 - San Cristóbal de La Laguna, 168"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1455",
+    "standardname": "1455 - San Cristóbal de La Laguna, 196"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1151",
+    "standardname": "1151 - San Cristóbal de La Laguna, 96"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1149",
+    "standardname": "1149 - San Cristóbal de La Laguna, frente 51"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1426",
+    "standardname": "1426 - San Fermín, 20"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1631",
+    "standardname": "1631 - San Fernando, 38"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1219",
+    "standardname": "1219 - San José Artesano, 24"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1611",
+    "standardname": "1611 - San José Artesano, 46"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1680",
+    "standardname": "1680 - Judas Tadeo (Barranquillo)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1329",
+    "standardname": "1329 - Sta. Luisa Marillac (Bingo Cinema)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1327",
+    "standardname": "1327 - Sta. Luisa Marillac (Pl. Martín Cobos)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1325",
+    "standardname": "1325 - Sta. Luisa Marillac, 43"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1124",
+    "standardname": "1124 - Sargento Salom, 34"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1143",
+    "standardname": "1143 - Sargento Salom, 44"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1146",
+    "standardname": "1146 - Schubert, 17"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1144",
+    "standardname": "1144 - Schubert, 5"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1142",
+    "standardname": "1142 - Schubert, frente 6"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1751",
+    "standardname": "1751 - Serventía, 101"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1738",
+    "standardname": "1738 - Serventia, 145"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1749",
+    "standardname": "1749 - Serventía, 189"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1753",
+    "standardname": "1753 - Serventía, 85"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1223",
+    "standardname": "1223 - Severo Ochoa"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1244",
+    "standardname": "1244 - Severo Ochoa (Albert Schwitzer)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1438",
+    "standardname": "1438 - Severo Ochoa (C.S. El Batán)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1246",
+    "standardname": "1246 - Severo Ochoa (George Bernard Shaw)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1227",
+    "standardname": "1227 - Severo Ochoa (George Pire)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1225",
+    "standardname": "1225 - Severo Ochoa, 12"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1242",
+    "standardname": "1242 - Severo Ochoa, frente 10"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1897",
+    "standardname": "1897 - Sierra Nevada (San Francisco)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1671",
+    "standardname": "1671 - Sierra Nevada, frente  44"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1415",
+    "standardname": "1415 - Simancas, 70"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1699",
+    "standardname": "1699 - Tablero de Gonzalo"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1692",
+    "standardname": "1692 - Tablero de Gonzalo, frente 7"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1062",
+    "standardname": "1062 - Teobaldo Power (Iglesia Redonda)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1055",
+    "standardname": "1055 - Teobaldo Power, frente 51"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1269",
+    "standardname": "1269 - Tinguaro, 18"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1311",
+    "standardname": "1311 - Tomás Miller (Playa de Las Canteras)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1263",
+    "standardname": "1263 - Tomás Miller, frente 31"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1004",
+    "standardname": "1004 - Triana (Parque San Telmo)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1696",
+    "standardname": "1696 - Tunerillas, frente 20"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1",
+    "standardname": "1 - Vega de Río Palma, 48"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1007",
+    "standardname": "1007 - Venegas (Fuente Luminosa)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1005",
+    "standardname": "1005 - Venegas (Usos Múltiples)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1600",
+    "standardname": "1600 - Ventura Doreste, 7"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1531",
+    "standardname": "1531 - Veracruz, 16"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1569",
+    "standardname": "1569 - Veracruz, 36"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1326",
+    "standardname": "1326 - Virgen de La Paloma (Iglesia de La Paz)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1324",
+    "standardname": "1324 - Virgen de La Paloma, frente 19"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1558",
+    "standardname": "1558 - Virgen del Pilar (Pl. Barranco de La Ballena)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1547",
+    "standardname": "1547 - Virgen del Pilar, 28"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1560",
+    "standardname": "1560 - Virgen del Pilar, frente 26"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/2",
+    "standardname": "2 - Zaragoza (Don Pedro Infinito)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1293",
+    "standardname": "1293 - Zaragoza, 26"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1304",
+    "standardname": "1304 - Zaragoza, 27"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1518",
+    "standardname": "1518 - Archivero Joaquin Blanco Montesdeoca (Pedro Barber)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1681",
+    "standardname": "1681 - Arquitecto Jose Luis Jimenez, 3"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1145",
+    "standardname": "1145 - Pedro Hidalgo (Polideportivo)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1322",
+    "standardname": "1322 - Calzada lateral del Norte (Centro Salud Miller Bajo)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1320",
+    "standardname": "1320 - Calzada lateral del Norte (Divina Pastora)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1968",
+    "standardname": "1968 - Campus Universitario (Ingenierías)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1709",
+    "standardname": "1709 - Ctra. San Juan de Dios (Guincho)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1715",
+    "standardname": "1715 - Ctra. San Juan de Dios (Guincho)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1744",
+    "standardname": "1744 - Ctra. de Almatriche"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1740",
+    "standardname": "1740 - Ctra. de Almatriche (Fábrica de Tejas)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1742",
+    "standardname": "1742 - Ctra. de Almatriche (Gasolinera)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1746",
+    "standardname": "1746 - Ctra. de Almatriche, 135"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1492",
+    "standardname": "1492 - Ctra. de Almatriche, 138"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1748",
+    "standardname": "1748 - Ctra. de Almatriche, 169"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1743",
+    "standardname": "1743 - Ctra. de Almatriche, 20"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1750",
+    "standardname": "1750 - Ctra. de Almatriche, 259"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1484",
+    "standardname": "1484 - Ctra. de Almatriche, 30"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1504",
+    "standardname": "1504 - Ctra. de Almatriche, 94"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1745",
+    "standardname": "1745 - Ctra. de Almatriche, frente 47"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1747",
+    "standardname": "1747 - Ctra. de Almatriche, frente 71"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1474",
+    "standardname": "1474 - Ctra. de Chile (Campo de Golf)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1493",
+    "standardname": "1493 - Ctra. de Chile (Campo de Golf)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1491",
+    "standardname": "1491 - Ctra. de Chile, 45"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1472",
+    "standardname": "1472 - Ctra. de Chile, 68"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1489",
+    "standardname": "1489 - Ctra. de Chile, 75"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1470",
+    "standardname": "1470 - Ctra. de Chile, frente 91"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1563",
+    "standardname": "1563 - Ctra. Lomo Blanco (IES Felo Monzón)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1383",
+    "standardname": "1383 - Rotonda de Lomo Blanco"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1582",
+    "standardname": "1582 - Ctra. Lomo Blanco, frente 51"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/10",
+    "standardname": "10 - Ctra. de Mata (San Antonio)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1319",
+    "standardname": "1319 - Ctra. de Mata (Parque de Las Rehoyas)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1281",
+    "standardname": "1281 - Ctra. de Mata (Pl. del Pino)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1317",
+    "standardname": "1317 - Ctra. de Mata, 42"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1346",
+    "standardname": "1346 - Ctra. de San Lorenzo (Barranco)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/3",
+    "standardname": "3 - Ctra. de San Lorenzo, 230"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1382",
+    "standardname": "1382 - Ctra. de San Lorenzo, 383"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1180",
+    "standardname": "1180 - Ctra. de San Lorenzo, frente 128"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1296",
+    "standardname": "1296 - Ctra. de San Lorenzo, frente 172"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1298",
+    "standardname": "1298 - Ctra. de San Lorenzo, frente 186"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1416",
+    "standardname": "1416 - Ctra. de San Lorenzo, frente 282"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1477",
+    "standardname": "1477 - Ctra. de Tamaraceite (Las Majadillas)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1458",
+    "standardname": "1458 - Ctra. de Tamaraceite (Las Perreras)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1450",
+    "standardname": "1450 - Ctra. de Tamaraceite (Rotonda Lomo Los Frailes)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1469",
+    "standardname": "1469 - Ctra. de Tamaraceite (Rotonda Lomo Los Frailes)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1462",
+    "standardname": "1462 - Ctra. de Tamaraceite (Urb. Ind. Lomo Blanco)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1452",
+    "standardname": "1452 - Ctra. de Tamaraceite (Urb. La Guillena)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1471",
+    "standardname": "1471 - Ctra. de Tamaraceite (Urb. La Guillena)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1456",
+    "standardname": "1456 - Ctra. de Tamaraceite, frente 71"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1460",
+    "standardname": "1460 - Ctra. de Tamaraceite, frente 21"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1603",
+    "standardname": "1603 - Ctra. de Teror"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1622",
+    "standardname": "1622 - Ctra. de Teror, 16"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1464",
+    "standardname": "1464 - Ctra. El Cardón (Cruce Las Torres)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1481",
+    "standardname": "1481 - Ctra. El Cardón (Cruce Las Torres)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1466",
+    "standardname": "1466 - Ctra. El Cardón (Urb. Díaz Casanovas)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1483",
+    "standardname": "1483 - Ctra. El Cardón (Urb. Díaz Casanovas)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1485",
+    "standardname": "1485 - Ctra. El Cardón, 41"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1468",
+    "standardname": "1468 - Ctra. El Cardón, frente 49"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1625",
+    "standardname": "1625 - Ctra. del Centro (Antigua Cárcel)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1436",
+    "standardname": "1436 - Ctra. del Centro (Barranco Seco)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1240",
+    "standardname": "1240 - Ctra. del Centro (Colegio S. Juan Bosco)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1574",
+    "standardname": "1574 - Ctra. del Centro (Teatro Guiniguada)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1380",
+    "standardname": "1380 - Ctra. del Norte (C.C. La Ballena)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1376",
+    "standardname": "1376 - Ctra. del Norte (frente C.C. La Ballena)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1374",
+    "standardname": "1374 - Ctra. del Norte (IES Cruz de Piedra)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1385",
+    "standardname": "1385 - Ctra. del Norte (Los Tarahales)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1399",
+    "standardname": "1399 - Ctra. del Norte (Los Tarahales)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1321",
+    "standardname": "1321 - Ctra. del Norte, 14"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1405",
+    "standardname": "1405 - Ctra. del Norte, 225"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1390",
+    "standardname": "1390 - Ctra. del Norte, 234"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1323",
+    "standardname": "1323 - Ctra. del Norte, 30"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1379",
+    "standardname": "1379 - Ctra. del Norte, 40"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1381",
+    "standardname": "1381 - Ctra. del Norte, 68"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1194",
+    "standardname": "1194 - Ctra. del Cardón (Rotonda)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1561",
+    "standardname": "1561 - Ctra. del Cardón, frente 118"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1446",
+    "standardname": "1446 - Ctra. Gral. Tamaraceite, 140"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1463",
+    "standardname": "1463 - Ctra. Gral. Tamaraceite, 143"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1461",
+    "standardname": "1461 - Ctra. Gral. Tamaraceite, 171"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1444",
+    "standardname": "1444 - Ctra. Gral. Tamaraceite, 172"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1448",
+    "standardname": "1448 - Ctra. Gral. Tamaraceite, 68"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1613",
+    "standardname": "1613 - Ctra. Lomo Blanco, 54"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1761",
+    "standardname": "1761 - Ctra. Nueva de San Lorenzo"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1763",
+    "standardname": "1763 - Ctra. Nueva de San Lorenzo (Gasolinera)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1771",
+    "standardname": "1771 - Ctra. de San Lorenzo, 254"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1765",
+    "standardname": "1765 - Ctra. de San Lorenzo, 120"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1767",
+    "standardname": "1767 - Ctra. de San Lorenzo, 154"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1769",
+    "standardname": "1769 - Ctra. de San Lorenzo, 188"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1764",
+    "standardname": "1764 - Ctra. de San Lorenzo, 282"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1752",
+    "standardname": "1752 - Ctra. de San Lorenzo, 400"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1786",
+    "standardname": "1786 - Ctra. Subida a Tafira (La Favorita)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1479",
+    "standardname": "1479 - Ctra. Tamaraceite (Danone)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1473",
+    "standardname": "1473 - Ctra. Tamaraceite (Las Perreras)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1475",
+    "standardname": "1475 - Ctra. Tamaraceite, frente 62"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1646",
+    "standardname": "1646 - Catamarca, frente 2"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1714",
+    "standardname": "1714 - Ciencias Básicas"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1605",
+    "standardname": "1605 - Ciencias Básicas / Informática"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1612",
+    "standardname": "1612 - Ciencias Básicas / Teología"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1691",
+    "standardname": "1691 - Ciencias Jurídicas (Módulo B)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1978",
+    "standardname": "1978 - Ciudad de San Juan de Dios (El Lasso)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1234",
+    "standardname": "1234 - Ctra. Lomo Blanco (El Hornillo)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1236",
+    "standardname": "1236 - Ctra. Lomo Blanco (Felipe Martel)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1217",
+    "standardname": "1217 - Ctra. Lomo Blanco (Felipe Martel)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1232",
+    "standardname": "1232 - Ctra. Lomo Blanco (Hermanos Toledo Suárez)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1213",
+    "standardname": "1213 - Ctra. Lomo Blanco (Hermanos Toledo Suárez)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1215",
+    "standardname": "1215 - Ctra. Lomo Blanco (Lomo Verdejo)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1230",
+    "standardname": "1230 - Ctra. Lomo Blanco (Puente La Matula)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1567",
+    "standardname": "1567 - Ctra. Lomo Blanco (Urb. El Zurbarán)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1578",
+    "standardname": "1578 - Ctra. Lomo Blanco (Urb. El Zurbarán)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1580",
+    "standardname": "1580 - Ctra. Lomo Blanco, 81"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1565",
+    "standardname": "1565 - Ctra. Lomo Blanco, 94"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/8",
+    "standardname": "8 - Ctra. Lomo Blanco, 5"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1787",
+    "standardname": "1787 - Ctra. Pico Viento (Asilo de Ancianos)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1788",
+    "standardname": "1788 - Ctra. Pico Viento (Asilo de Ancianos)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1940",
+    "standardname": "1940 - Guiniguada"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1894",
+    "standardname": "1894 - Hospital Dr. Negrín (Consultas Externas)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1963",
+    "standardname": "1963 - Hospital Dr. Negrín (Consultas Externas)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1705",
+    "standardname": "1705 - Hospital Dr. Negrín (Hospitalización)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1615",
+    "standardname": "1615 - Hospital Juan Carlos I"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1928",
+    "standardname": "1928 - Hoya de La Plata"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1731",
+    "standardname": "1731 - Ingenierías"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1898",
+    "standardname": "1898 - Ingenierías"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1966",
+    "standardname": "1966 - Intercambiador de Tamaraceite"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1020",
+    "standardname": "1020 - Intercambiador Santa Catalina"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1209",
+    "standardname": "1209 - La Matula, frente 95"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1205",
+    "standardname": "1205 - La Matula, frente 25"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1207",
+    "standardname": "1207 - La Matula, frente 61"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1011",
+    "standardname": "1011 - Manuel Becerra (Puerto)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1944",
+    "standardname": "1944 - Manuel Becerra (Puerto)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1993",
+    "standardname": "1993 - Mercado de Vegueta"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1026",
+    "standardname": "1026 - Parque Santa Catalina"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1666",
+    "standardname": "1666 - Parque Tecnológico"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1303",
+    "standardname": "1303 - Pº de Chil (Estadio Insular)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1309",
+    "standardname": "1309 - Pº de Chil (Jardines Rubió)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1305",
+    "standardname": "1305 - Pº de Chil (Pl. de España)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1287",
+    "standardname": "1287 - Pº San Antonio, 56"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1079",
+    "standardname": "1079 - Pº San José (Iglesia San José)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1082",
+    "standardname": "1082 - Pº San José (Iglesia San José)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1081",
+    "standardname": "1081 - Pº San José, 170"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1083",
+    "standardname": "1083 - Pº San José, 214"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1085",
+    "standardname": "1085 - Pº San José, 264"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1087",
+    "standardname": "1087 - Pº San José, 290"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1084",
+    "standardname": "1084 - Pº San José, frente 154"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1086",
+    "standardname": "1086 - Pº San José, frente 208"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1088",
+    "standardname": "1088 - Pº San José, frente 266"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1090",
+    "standardname": "1090 - Pº San José, frente 298"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1251",
+    "standardname": "1251 - Tomás Morales, 120"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1799",
+    "standardname": "1799 - Tomás Morales, 4"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1249",
+    "standardname": "1249 - Tomás Morales, frente 69"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1023",
+    "standardname": "1023 - Pl. San Juan Bautista (Base Naval)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1545",
+    "standardname": "1545 - Pl. Barranco La Ballena"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1044",
+    "standardname": "1044 - Pl. de la Constitución (Obelisco)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1247",
+    "standardname": "1247 - Pl. de la Constitución (Obelisco)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1412",
+    "standardname": "1412 - Pl. de San Lorenzo"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1211",
+    "standardname": "1211 - Puente La Matula"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1184",
+    "standardname": "1184 - Residencial Flor Sirera"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1951",
+    "standardname": "1951 - Residencias (Campus Universitario)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1706",
+    "standardname": "1706 - Hospital Dr. Negrín (Acceso principal)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1449",
+    "standardname": "1449 - Sabino Berthelot (Pº Blas Cabrera Felipe)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1001",
+    "standardname": "1001 - Teatro"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1930",
+    "standardname": "1930 - Teatro"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1936",
+    "standardname": "1936 - Tres Palmas"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/6",
+    "standardname": "6 - Lomo del Capón"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/13",
+    "standardname": "13 - Párroco Villar Reina, frente 8"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/20",
+    "standardname": "20 - Rafael Cabrera (Teatro)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1521",
+    "standardname": "1521 - Pº San Antonio, 4"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1524",
+    "standardname": "1524 - Pº San Antonio, 85"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1522",
+    "standardname": "1522 - Pº San Antonio, 27"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1507",
+    "standardname": "1507 - Ignacio Pérez Galdós"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1285",
+    "standardname": "1285 - Pº San Antonio (López Orduña)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/127",
+    "standardname": "127 - Doctor Sventenius, frente 2"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1502",
+    "standardname": "1502 - Las Torres (Madreselva)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/453",
+    "standardname": "453 - León XIII"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/465",
+    "standardname": "465 - Gloria (Agustina de Aragón)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/467",
+    "standardname": "467 - R. Mesa y López (CEIP Timplista José Antonio Ramos)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/499",
+    "standardname": "499 - R. Mesa y López (El Audaz)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/50",
+    "standardname": "50 - Av. Marítima (San Cristóbal)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/318",
+    "standardname": "318 - Ignacio Pérez Galdós (Castillo de Mata)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/961",
+    "standardname": "961 - Ind. José Sánchez Peñate (C.C. Las Arenas)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/1977",
+    "standardname": "1977 - Paseo de La Cornisa (Escaleritas)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/736",
+    "standardname": "736 - Pintor Felo Monzón (Hipercor)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/704",
+    "standardname": "704 - Pintor Felo Monzón (Hoya de La Gallina)"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/668",
+    "standardname": "668 - Arquitecto Laureano Arroyo, frente 153"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/730",
+    "standardname": "730 - Galilea, 60"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/428",
+    "standardname": "428 - Galilea, 20"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/713",
+    "standardname": "713 - Amurga, 27"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/432",
+    "standardname": "432 - Carretera de San Lorenzo, frente a 230"
+  },
+  {
+    "@id": "http://laspalmasdegrancanaria.linkedconnections.org/guaguas/stops/21",
+    "standardname": "21 - Alameda de Colón"
+  }
+]

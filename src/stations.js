@@ -180,13 +180,11 @@ const fillDatabase = () => {
         10 - tram
         5 - train */
 
-    importJson("data/sncb.json", "station", "train", "sncb");
-    importJson("data/crtm/emtStops.json", null, "emt-bus", "crtm", true);
-    importJson("data/crtm/metroStops.json", null, "metro", "crtm", true);
-    importJson("data/crtm/trainStops.json", null, "train", "crtm", true);
-    importJson("data/crtm/busses.json", null, "bus", "crtm", true);
-    importJson("data/crtm/urbanStops.json", null, "bus", "crtm", true);
-    importJson("data/delijn.json", null, "bus", "delijn", true);
+    importJson("data/belgium/sncb.json", "station", "train", "sncb");
+    importJson("data/spain/madrid/emt.json", null, "bus", "emt", true);
+    importJson("data/spain/caceres.json", null, "bus", "caceres", true);
+    importJson("data/spain/laspalmasdegrancanaria.json", null, "bus", "lpgc", true);
+    importJson("data/belgium/delijn.json", null, "bus", "delijn", true);
 }
 
 /**
