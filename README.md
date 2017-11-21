@@ -1,7 +1,7 @@
 # Tripscore server by the OASIS team
 ## Server
 Server written with Node.js, express using SQLite as a database engine.
-Mainly used to gather and provide station data.
+Mainly used to gather and provide station data. A docker container is in the top of the server.
 
 ## About
 Together, Ghent and the region of Madrid have initiated an innovative action that will increase the accessibility of public services and public transport. To do this, they will collaborate to publish linked open data. Both cities are experienced publishers of open data, and together they will prove that new technologies (such as the “Semantic Web”) can lead to economies of scale, such as the creation of cross-country applications.
@@ -10,25 +10,14 @@ The proof of concept is a small app in which a user can fill in the route he usu
 The applications uses linked open data from the iRail API, combined with historical data.
 
 ## Installation
-### Requirements (Recommended)
-* Node.JS (^v7.x.x)
-* npm (^v3.x.x)
+### Requirements 
+* Docker
 
 ### Commands
-To install all dependencies (required before running any of the other commands).
-```
-$ npm install
-```
-Start the server.
-```
-$ npm start
-```
-
-### Run the server
-After testing the server if everything is working fine, you can run the run.sh script (Make sure you set the file permissions to runnable)
-
-*We do not recommend running this server standalone without a proxy like nginx in front of it. We also recommend PM2 for uptime and multiple node server apps management.*
-```
-chmod +x ./run.sh
-./run.sh
+To install:
+```bash
+$ git clone https://github.com/dachafra/oasis-backend
+$ cd oasis-backend
+$ docker build -t oasis-backend .
+$ docker run -d --name oasis-backend -p localhost-port:8080 oasis-backend
 ```
