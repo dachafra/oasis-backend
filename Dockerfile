@@ -8,6 +8,6 @@ RUN	git clone https://github.com/dachafra/oasis-backend.git . \
 	&& npm install \
 	&& chmod +x run.sh
 
-CMD run.sh
+ENTRYPOINT ["/tripscore/oasis-backend/run.sh]
 
 EXPOSE 8080
