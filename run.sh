@@ -1,4 +1,3 @@
 #!/bin/sh
 echo "starting tripscore server"
-npm install
-nohup npm start & 
+npm start --host 0.0.0.0 --port 8080
