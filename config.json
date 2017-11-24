@@ -1,4 +1,4 @@
 {
     "port": 8080,
-    "domain": "https://api.tripscore.eu"
+    "domain": "https://localhost:8080/api" //CAMBIAR ESTO PARA LINKED DATA FRAGMENTS
 }
