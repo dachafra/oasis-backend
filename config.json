@@ -1,4 +1,4 @@
 {
     "port": 8080,
-    "domain": "https://localhost:8080/api"
+    "domain": "http://tripscore.lab.oeg-upm.net/api"
 }
