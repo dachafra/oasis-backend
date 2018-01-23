@@ -1,0 +1,614 @@
+[
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_11",
+    "standardname": "Atocha",
+    "latitude": "40.40660117",
+    "longitude": "-3.689211841"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_133",
+    "standardname": "Fuente De La Mora",
+    "latitude": "40.48475511",
+    "longitude": "-3.662731989"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_142",
+    "standardname": "Aeropuerto T4",
+    "latitude": "40.49178125",
+    "longitude": "-3.593240272"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_144",
+    "standardname": "Valdebebas",
+    "latitude": "40.48230916",
+    "longitude": "-3.616340576"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_18",
+    "standardname": "Chamartin",
+    "latitude": "40.47210946",
+    "longitude": "-3.682378599"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_25",
+    "standardname": "Delicias",
+    "latitude": "40.40038232",
+    "longitude": "-3.692671822"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_46",
+    "standardname": "Mendez Alvaro",
+    "latitude": "40.3953883",
+    "longitude": "-3.677986025"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_51",
+    "standardname": "Nuevos Ministerios",
+    "latitude": "40.4466277",
+    "longitude": "-3.69225018"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_57",
+    "standardname": "Piramides",
+    "latitude": "40.40260289",
+    "longitude": "-3.71124316"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_61",
+    "standardname": "Principe Pio",
+    "latitude": "40.42107902",
+    "longitude": "-3.720172311"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_65",
+    "standardname": "Recoletos",
+    "latitude": "40.42342062",
+    "longitude": "-3.69076268"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/est_90_13",
+    "standardname": "Méndez Álvaro Estación Sur",
+    "latitude": "40.39538",
+    "longitude": "-3.67819"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/est_90_18",
+    "standardname": "Intercambiador De Príncipe Pío",
+    "latitude": "40.42107",
+    "longitude": "-3.72037"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/est_90_25",
+    "standardname": "Chamartín",
+    "latitude": "40.4721",
+    "longitude": "-3.68269"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/est_90_33",
+    "standardname": "Aeropuerto T4",
+    "latitude": "40.49176",
+    "longitude": "-3.59356"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/est_90_54",
+    "standardname": "Atocha-Renfe",
+    "latitude": "40.40659",
+    "longitude": "-3.68944"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/est_90_71",
+    "standardname": "Nuevos Ministerios",
+    "latitude": "40.44662",
+    "longitude": "-3.69246"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_10",
+    "standardname": "Asamblea De Madrid-Entrevias",
+    "latitude": "40.38168116",
+    "longitude": "-3.667917434"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_106",
+    "standardname": "Garena La",
+    "latitude": "40.48044632",
+    "longitude": "-3.393081282"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_12",
+    "standardname": "Azuqueca",
+    "latitude": "40.56104311",
+    "longitude": "-3.26537808"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_143",
+    "standardname": "Soto Del Henares",
+    "latitude": "40.4635429",
+    "longitude": "-3.441248246"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_2",
+    "standardname": "Alcalá De Henares",
+    "latitude": "40.48903887",
+    "longitude": "-3.366252006"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_22",
+    "standardname": "Coslada",
+    "latitude": "40.4237445",
+    "longitude": "-3.561050026"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_3",
+    "standardname": "Alcalá De Henares Universidad",
+    "latitude": "40.50534877",
+    "longitude": "-3.33532393"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_38",
+    "standardname": "Guadalajara",
+    "latitude": "40.64409361",
+    "longitude": "-3.182303771"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_45",
+    "standardname": "Meco",
+    "latitude": "40.5346293",
+    "longitude": "-3.298571203"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_59",
+    "standardname": "Pozo El",
+    "latitude": "40.37591075",
+    "longitude": "-3.656139628"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_71",
+    "standardname": "San Fernando",
+    "latitude": "40.44267543",
+    "longitude": "-3.533756997"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_75",
+    "standardname": "Santa Eugenia",
+    "latitude": "40.38699762",
+    "longitude": "-3.608967398"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_81",
+    "standardname": "Torrejon De Ardoz",
+    "latitude": "40.45461489",
+    "longitude": "-3.47973106"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_87",
+    "standardname": "Vallecas",
+    "latitude": "40.38222128",
+    "longitude": "-3.624463306"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_90",
+    "standardname": "Vicalvaro",
+    "latitude": "40.40132727",
+    "longitude": "-3.595839315"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_103",
+    "standardname": "Casar El",
+    "latitude": "40.3184768",
+    "longitude": "-3.709747545"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_122",
+    "standardname": "Sol",
+    "latitude": "40.41685141",
+    "longitude": "-3.703000954"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_19",
+    "standardname": "Ciempozuelos",
+    "latitude": "40.15907806",
+    "longitude": "-3.609932294"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_29",
+    "standardname": "Escorial El",
+    "latitude": "40.58527531",
+    "longitude": "-4.132238331"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_33",
+    "standardname": "Galapagar-La Navata",
+    "latitude": "40.60012019",
+    "longitude": "-3.981763608"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_35",
+    "standardname": "Getafe Industrial",
+    "latitude": "40.30548983",
+    "longitude": "-3.707599355"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_44",
+    "standardname": "Matas Las",
+    "latitude": "40.55252538",
+    "longitude": "-3.896741136"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_55",
+    "standardname": "Pinar De Las Rozas",
+    "latitude": "40.52230609",
+    "longitude": "-3.882065766"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_56",
+    "standardname": "Pinto",
+    "latitude": "40.2428012",
+    "longitude": "-3.703642598"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_58",
+    "standardname": "Pitis",
+    "latitude": "40.49511504",
+    "longitude": "-3.725754352"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_64",
+    "standardname": "Ramon Y Cajal",
+    "latitude": "40.48825229",
+    "longitude": "-3.694648196"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_67",
+    "standardname": "Robledo De Chavela",
+    "latitude": "40.52078",
+    "longitude": "-4.24671"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_69",
+    "standardname": "San Cristobal De Los Angeles",
+    "latitude": "40.34237229",
+    "longitude": "-3.683753973"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_70",
+    "standardname": "San Cristobal Industrial",
+    "latitude": "40.33192301",
+    "longitude": "-3.698622549"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_74",
+    "standardname": "San Yago",
+    "latitude": "40.61787024",
+    "longitude": "-4.031013639"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_76",
+    "standardname": "Santa Maria De La Alameda",
+    "latitude": "40.56892",
+    "longitude": "-4.26933"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_8",
+    "standardname": "Aranjuez",
+    "latitude": "40.03484777",
+    "longitude": "-3.618212493"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_82",
+    "standardname": "Torrelodones",
+    "latitude": "40.57451399",
+    "longitude": "-3.956449112"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_86",
+    "standardname": "Valdemoro",
+    "latitude": "40.19605707",
+    "longitude": "-3.664718002"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_91",
+    "standardname": "Villalba",
+    "latitude": "40.6263702",
+    "longitude": "-4.008005859"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_93",
+    "standardname": "Villaverde Bajo",
+    "latitude": "40.3526508",
+    "longitude": "-3.683893109"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_94",
+    "standardname": "Zarzalejo",
+    "latitude": "40.538728",
+    "longitude": "-4.15817"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_96",
+    "standardname": "Zorreras Las",
+    "latitude": "40.60942092",
+    "longitude": "-4.045966653"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/est_90_58",
+    "standardname": "Puerta Del Sol",
+    "latitude": "40.41688",
+    "longitude": "-3.70331"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_15",
+    "standardname": "Cantoblanco Universidad",
+    "latitude": "40.54379369",
+    "longitude": "-3.700252351"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_21",
+    "standardname": "Colmenar Viejo",
+    "latitude": "40.64497473",
+    "longitude": "-3.775640708"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_31",
+    "standardname": "Fuencarral",
+    "latitude": "40.50156911",
+    "longitude": "-3.682252184"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_34",
+    "standardname": "Getafe Centro",
+    "latitude": "40.31011016",
+    "longitude": "-3.733843708"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_36",
+    "standardname": "Getafe Sector 3",
+    "latitude": "40.28825947",
+    "longitude": "-3.737242537"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_37",
+    "standardname": "Goloso El",
+    "latitude": "40.5585831",
+    "longitude": "-3.71397804"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_4",
+    "standardname": "Alcobendas-S.S. De Los Reyes",
+    "latitude": "40.54657559",
+    "longitude": "-3.635092494"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_43",
+    "standardname": "Margaritas-Universidad Las",
+    "latitude": "40.32305258",
+    "longitude": "-3.727286434"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_53",
+    "standardname": "Parla",
+    "latitude": "40.24077994",
+    "longitude": "-3.769268467"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_83",
+    "standardname": "Tres Cantos",
+    "latitude": "40.59844577",
+    "longitude": "-3.715560215"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_84",
+    "standardname": "Universidad P. Comillas",
+    "latitude": "40.55406639",
+    "longitude": "-3.683245404"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_85",
+    "standardname": "Valdelasfuentes",
+    "latitude": "40.54745068",
+    "longitude": "-3.654244339"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_92",
+    "standardname": "Villaverde Alto",
+    "latitude": "40.34123891",
+    "longitude": "-3.71183451"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_1",
+    "standardname": "Aguilas Las",
+    "latitude": "40.38119443",
+    "longitude": "-3.780181883"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_104",
+    "standardname": "Humanes",
+    "latitude": "40.25566051",
+    "longitude": "-3.828371958"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_105",
+    "standardname": "Parque Polvoranca",
+    "latitude": "40.31251593",
+    "longitude": "-3.783251025"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_24",
+    "standardname": "Cuatro Vientos",
+    "latitude": "40.37771319",
+    "longitude": "-3.791344486"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_26",
+    "standardname": "Doce De Octubre",
+    "latitude": "40.37896882",
+    "longitude": "-3.698519281"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_28",
+    "standardname": "Embajadores",
+    "latitude": "40.40513358",
+    "longitude": "-3.702537264"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_30",
+    "standardname": "Fanjul",
+    "latitude": "40.38366019",
+    "longitude": "-3.768476434"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_32",
+    "standardname": "Fuenlabrada",
+    "latitude": "40.28268887",
+    "longitude": "-3.798763808"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_40",
+    "standardname": "Laguna",
+    "latitude": "40.39918872",
+    "longitude": "-3.744131024"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_41",
+    "standardname": "Leganes",
+    "latitude": "40.32899215",
+    "longitude": "-3.771387448"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_48",
+    "standardname": "Mostoles",
+    "latitude": "40.3285131",
+    "longitude": "-3.863399073"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_49",
+    "standardname": "Mostoles El Soto",
+    "latitude": "40.33090246",
+    "longitude": "-3.882240851"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_5",
+    "standardname": "Alcorcon",
+    "latitude": "40.35008821",
+    "longitude": "-3.831634009"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_52",
+    "standardname": "Orcasitas",
+    "latitude": "40.36691563",
+    "longitude": "-3.704319231"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_62",
+    "standardname": "Puente Alcocer",
+    "latitude": "40.35029843",
+    "longitude": "-3.705064792"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_66",
+    "standardname": "Retamas Las",
+    "latitude": "40.3419027",
+    "longitude": "-3.842329982"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_7",
+    "standardname": "Aluche",
+    "latitude": "40.38563985",
+    "longitude": "-3.76065254"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_72",
+    "standardname": "San Jose De Valderas",
+    "latitude": "40.35654338",
+    "longitude": "-3.815791793"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_77",
+    "standardname": "Serna La",
+    "latitude": "40.29673286",
+    "longitude": "-3.792387332"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_95",
+    "standardname": "Zarzaquemada",
+    "latitude": "40.34086517",
+    "longitude": "-3.748210984"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/est_90_1",
+    "standardname": "Aluche",
+    "latitude": "40.38563",
+    "longitude": "-3.76085"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_13",
+    "standardname": "Barrial-C.Com.Pozuelo El",
+    "latitude": "40.46538318",
+    "longitude": "-3.807647428"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_42",
+    "standardname": "Majadahonda",
+    "latitude": "40.47428523",
+    "longitude": "-3.845256199"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_60",
+    "standardname": "Pozuelo",
+    "latitude": "40.44727436",
+    "longitude": "-3.800025157"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_68",
+    "standardname": "Rozas Las",
+    "latitude": "40.49424202",
+    "longitude": "-3.868033383"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_9",
+    "standardname": "Aravaca",
+    "latitude": "40.44833609",
+    "longitude": "-3.785769062"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_16",
+    "standardname": "Cercedilla",
+    "latitude": "40.73757335",
+    "longitude": "-4.065807199"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_20",
+    "standardname": "Collado Mediano",
+    "latitude": "40.69275992",
+    "longitude": "-4.035776993"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_47",
+    "standardname": "Molinos Los",
+    "latitude": "40.70735093",
+    "longitude": "-4.066722014"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_50",
+    "standardname": "Negrales Los",
+    "latitude": "40.63858159",
+    "longitude": "-4.021800811"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_6",
+    "standardname": "Alpedrete",
+    "latitude": "40.65816581",
+    "longitude": "-4.034969619"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_23",
+    "standardname": "Cotos",
+    "latitude": "40.82226014",
+    "longitude": "-3.964434393"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/train/stops/par_5_63",
+    "standardname": "Puerto Navacerrada",
+    "latitude": "40.78441567",
+    "longitude": "-4.004643863"
+  }
+]

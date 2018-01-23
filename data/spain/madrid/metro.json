@@ -1,0 +1,966 @@
+[
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_207",
+    "standardname": "Abrantes"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_92",
+    "standardname": "Acacias"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_159",
+    "standardname": "Aeropuerto T1 T2 T3"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_285",
+    "standardname": "Aeropuerto T4"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_252",
+    "standardname": "Alameda de Osuna"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_211",
+    "standardname": "Alcorcon Central"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_66",
+    "standardname": "Alfonso XIII"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_267",
+    "standardname": "Almendrales"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_143",
+    "standardname": "Alonso Cano"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_225",
+    "standardname": "Alonso de Mendoza"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_57",
+    "standardname": "Alonso Martinez"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_323",
+    "standardname": "Alsacia"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_129",
+    "standardname": "Alto de Extremadura"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_23",
+    "standardname": "Alto del Arenal"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_100",
+    "standardname": "Aluche"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_5",
+    "standardname": "Alvarado"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_14",
+    "standardname": "Anton Martin"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_149",
+    "standardname": "Antonio Machado"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_186",
+    "standardname": "Arganda del Rey"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_259",
+    "standardname": "Arganzuela-Planetario"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_52",
+    "standardname": "Argüelles"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_223",
+    "standardname": "Arroyo Culebro"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_177",
+    "standardname": "Artilleros"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_68",
+    "standardname": "Arturo Soria"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_136",
+    "standardname": "Ascao"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_15",
+    "standardname": "Atocha"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_16",
+    "standardname": "Atocha-Renfe"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_151",
+    "standardname": "Avda. de la Ilustracion"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_64",
+    "standardname": "Avenida de America"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_324",
+    "standardname": "Avenida de Guadalajara"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_67",
+    "standardname": "Avenida de la Paz"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_257",
+    "standardname": "Aviacion Española"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_262",
+    "standardname": "Bambu"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_33",
+    "standardname": "Banco de España"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_160",
+    "standardname": "Barajas"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_138",
+    "standardname": "Barrio de la Concepcion"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_162",
+    "standardname": "Barrio del Pilar"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_287",
+    "standardname": "Barrio del Puerto"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_200",
+    "standardname": "Batan"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_282",
+    "standardname": "Baunatal"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_188",
+    "standardname": "Begoña"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_9",
+    "standardname": "Bilbao"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_22",
+    "standardname": "Buenos Aires"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_49",
+    "standardname": "Callao"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_102",
+    "standardname": "Campamento"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_41",
+    "standardname": "Canal"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_70",
+    "standardname": "Canillas"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_74",
+    "standardname": "Canillejas"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_98",
+    "standardname": "Carabanchel"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_255",
+    "standardname": "Carabanchel Alto"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_105",
+    "standardname": "Carpetana"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_140",
+    "standardname": "Cartagena"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_103",
+    "standardname": "Casa de Campo"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_233",
+    "standardname": "Casa del Reloj"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_189",
+    "standardname": "Chamartin"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_86",
+    "standardname": "Chueca"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_270",
+    "standardname": "Ciudad de los Angeles"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_77",
+    "standardname": "Ciudad Lineal"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_124",
+    "standardname": "Ciudad Universitaria"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_156",
+    "standardname": "Colombia"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_58",
+    "standardname": "Colon"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_202",
+    "standardname": "Colonia Jardin"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_168",
+    "standardname": "Concha Espina"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_113",
+    "standardname": "Conde de Casal"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_27",
+    "standardname": "Congosto"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_224",
+    "standardname": "Conservatorio"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_288",
+    "standardname": "Coslada Central"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_169",
+    "standardname": "Cruz del Rayo"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_6",
+    "standardname": "Cuatro Caminos"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_203",
+    "standardname": "Cuatro Vientos"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_191",
+    "standardname": "Cuzco"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_44",
+    "standardname": "Delicias"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_63",
+    "standardname": "Diego de Leon"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_165",
+    "standardname": "Duque de Pastrana"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_230",
+    "standardname": "El Bercial"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_253",
+    "standardname": "El Capricho"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_80",
+    "standardname": "El Carmen"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_231",
+    "standardname": "El Carrascal"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_228",
+    "standardname": "El Casar"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_46",
+    "standardname": "Embajadores"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_101",
+    "standardname": "Empalme"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_69",
+    "standardname": "Esperanza"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_286",
+    "standardname": "Estadio Metropolitano"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_4",
+    "standardname": "Estrecho"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_175",
+    "standardname": "Estrella"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_99",
+    "standardname": "Eugenia de Montijo"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_158",
+    "standardname": "Feria de Madrid"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_147",
+    "standardname": "Francos Rodriguez"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_187",
+    "standardname": "Fuencarral"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_221",
+    "standardname": "Fuenlabrada Central"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_135",
+    "standardname": "Garcia Noblejas"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_226",
+    "standardname": "Getafe Central"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_30",
+    "standardname": "Goya"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_11",
+    "standardname": "Gran Via"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_142",
+    "standardname": "Gregorio Marañon"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_122",
+    "standardname": "Guzman el Bueno"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_292",
+    "standardname": "Henares"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_161",
+    "standardname": "Herrera Oria"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_264",
+    "standardname": "Hortaleza"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_268",
+    "standardname": "Hospital 12 de Octubre"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_219",
+    "standardname": "Hospital de Fuenlabrada"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_216",
+    "standardname": "Hospital de Mostoles"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_296",
+    "standardname": "Hospital del Henares"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_284",
+    "standardname": "Hospital Infanta Sofía"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_234",
+    "standardname": "Hospital Severo Ochoa"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_173",
+    "standardname": "Ibiza"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_8",
+    "standardname": "Iglesia"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_145",
+    "standardname": "Islas Filipinas"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_291",
+    "standardname": "Jarama"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_204",
+    "standardname": "Joaquin Vilumbrales"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_227",
+    "standardname": "Juan de la Cierva"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_232",
+    "standardname": "Julian Besteiro"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_322",
+    "standardname": "La Almudena"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_260",
+    "standardname": "La Elipa"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_305",
+    "standardname": "La Fortuna"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_293",
+    "standardname": "La Gavia"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_278",
+    "standardname": "La Granja"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_90",
+    "standardname": "La Latina"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_279",
+    "standardname": "La Moraleja"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_256",
+    "standardname": "La Peseta"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_185",
+    "standardname": "La Poveda"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_289",
+    "standardname": "La Rambla"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_152",
+    "standardname": "Lacoma"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_199",
+    "standardname": "Lago"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_104",
+    "standardname": "Laguna"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_132",
+    "standardname": "Las Musas"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_325",
+    "standardname": "Las Rosas"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_294",
+    "standardname": "Las Suertes"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_276",
+    "standardname": "Las Tablas"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_47",
+    "standardname": "Lavapies"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_235",
+    "standardname": "Leganes Central"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_43",
+    "standardname": "Legazpi"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_62",
+    "standardname": "Lista"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_218",
+    "standardname": "Loranca"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_229",
+    "standardname": "Los Espartales"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_130",
+    "standardname": "Lucero"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_265",
+    "standardname": "Manoteras"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_29",
+    "standardname": "Manuel Becerra"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_281",
+    "standardname": "Manuel de Falla"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_217",
+    "standardname": "Manuela Malasaña"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_71",
+    "standardname": "Mar de Cristal"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_280",
+    "standardname": "Marques de la Valdavia"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_94",
+    "standardname": "Marques de Vadillo"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_111",
+    "standardname": "Mendez Alvaro"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_17",
+    "standardname": "Menendez Pelayo"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_123",
+    "standardname": "Metropolitano"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_24",
+    "standardname": "Miguel Hernandez"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_326",
+    "standardname": "Mirasierra"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_53",
+    "standardname": "Moncloa"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_275",
+    "standardname": "Montecarmelo"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_214",
+    "standardname": "Mostoles Central"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_38",
+    "standardname": "Noviciado"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_20",
+    "standardname": "Nueva Numancia"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_120",
+    "standardname": "Nuevos Ministerios"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_83",
+    "standardname": "Nuñez de Balboa"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_115",
+    "standardname": "Odonnell"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_107",
+    "standardname": "Opañel"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_36",
+    "standardname": "Opera"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_96",
+    "standardname": "Oporto"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_18",
+    "standardname": "Pacifico"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_345",
+    "standardname": "Paco de Lucia"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_45",
+    "standardname": "Palos de la Frontera"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_208",
+    "standardname": "Pan Bendito"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_139",
+    "standardname": "Parque de las Avenidas"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_222",
+    "standardname": "Parque de los Estados"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_73",
+    "standardname": "Parque de Santa Maria"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_220",
+    "standardname": "Parque Europa"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_210",
+    "standardname": "Parque Lisboa"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_212",
+    "standardname": "Parque Oeste"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_178",
+    "standardname": "Pavones"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_150",
+    "standardname": "Peñagrande"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_263",
+    "standardname": "Pinar de Chamartin"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_258",
+    "standardname": "Pinar del Rey"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_166",
+    "standardname": "Pio Xii"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_93",
+    "standardname": "Piramides"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_154",
+    "standardname": "Pitis"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_1",
+    "standardname": "Plaza de Castilla"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_50",
+    "standardname": "Plaza de España"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_108",
+    "standardname": "Plaza Eliptica"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_21",
+    "standardname": "Portazgo"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_215",
+    "standardname": "Pradillo"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_31",
+    "standardname": "Principe de Vergara"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_127",
+    "standardname": "Principe Pio"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_65",
+    "standardname": "Prosperidad"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_78",
+    "standardname": "Pueblo Nuevo"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_19",
+    "standardname": "Puente de Vallecas"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_182",
+    "standardname": "Puerta de Arganda"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_91",
+    "standardname": "Puerta de Toledo"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_128",
+    "standardname": "Puerta del Angel"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_205",
+    "standardname": "Puerta del Sur"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_40",
+    "standardname": "Quevedo"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_79",
+    "standardname": "Quintana"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_119",
+    "standardname": "Republica Argentina"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_32",
+    "standardname": "Retiro"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_283",
+    "standardname": "Reyes Catolicos"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_7",
+    "standardname": "Rios Rosas"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_300",
+    "standardname": "Rivas Futura"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_183",
+    "standardname": "Rivas Urbanizaciones"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_184",
+    "standardname": "Rivas Vaciamadrid"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_277",
+    "standardname": "Ronda de la Comunicacion"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_84",
+    "standardname": "Ruben Dario"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_114",
+    "standardname": "Sainz de Baranda"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_39",
+    "standardname": "San Bernardo"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_133",
+    "standardname": "San Blas"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_181",
+    "standardname": "San Cipriano"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_272",
+    "standardname": "San Cristobal"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_269",
+    "standardname": "San Fermin-Orcasur"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_290",
+    "standardname": "San Fernando"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_254",
+    "standardname": "San Francisco"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_72",
+    "standardname": "San Lorenzo"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_236",
+    "standardname": "San Nicasio"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_192",
+    "standardname": "Santiago Bernabeu"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_37",
+    "standardname": "Santo Domingo"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_59",
+    "standardname": "Serrano"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_34",
+    "standardname": "Sevilla"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_25",
+    "standardname": "Sierra de Guadalupe"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_134",
+    "standardname": "Simancas"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_12",
+    "standardname": "Sol"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_76",
+    "standardname": "Suanzes"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_3",
+    "standardname": "Tetuan"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_13",
+    "standardname": "Tirso de Molina"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_75",
+    "standardname": "Torre Arias"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_274",
+    "standardname": "Tres Olivos"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_10",
+    "standardname": "Tribunal"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_213",
+    "standardname": "Universidad Rey Juan Carlos"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_95",
+    "standardname": "Urgel"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_109",
+    "standardname": "Usera"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_2",
+    "standardname": "Valdeacederas"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_179",
+    "standardname": "Valdebernardo"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_295",
+    "standardname": "Valdecarros"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_148",
+    "standardname": "Valdezarza"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_60",
+    "standardname": "Velazquez"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_28",
+    "standardname": "Ventas"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_163",
+    "standardname": "Ventilla"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_51",
+    "standardname": "Ventura Rodriguez"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_180",
+    "standardname": "Vicalvaro"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_26",
+    "standardname": "Villa de Vallecas"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_273",
+    "standardname": "Villaverde Alto"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_271",
+    "standardname": "Villaverde Bajo-Cruce"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_176",
+    "standardname": "Vinateros"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/metro/stops/par_4_97",
+    "standardname": "Vista Alegre"
+  }
+]

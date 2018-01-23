@@ -1,0 +1,344 @@
+[
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_1",
+    "standardname": "Pinar De Chamartin",
+    "latitude": "40.48110426",
+    "longitude": "-3.666259106"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_2",
+    "standardname": "Fuente De La Mora",
+    "latitude": "40.48432982",
+    "longitude": "-3.663058168"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_3",
+    "standardname": "Virgen Del Cortijo",
+    "latitude": "40.48735118",
+    "longitude": "-3.660893255"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_4",
+    "standardname": "Antonio Saura",
+    "latitude": "40.48546566",
+    "longitude": "-3.653441479"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_5",
+    "standardname": "Alvarez De Villaamil",
+    "latitude": "40.48905443",
+    "longitude": "-3.651269786"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_6",
+    "standardname": "Blasco Ibañez",
+    "latitude": "40.49368666",
+    "longitude": "-3.655751485"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_7",
+    "standardname": "Maria Tudor",
+    "latitude": "40.49737311",
+    "longitude": "-3.658596"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_8",
+    "standardname": "Palas De Rey",
+    "latitude": "40.50544451",
+    "longitude": "-3.664977405"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_9",
+    "standardname": "Las Tablas",
+    "latitude": "40.50806214",
+    "longitude": "-3.66878016"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_10",
+    "standardname": "Colonia Jardin",
+    "latitude": "40.39693425",
+    "longitude": "-3.774648627"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_11",
+    "standardname": "Prado De La Vega",
+    "latitude": "40.40230742",
+    "longitude": "-3.781121657"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_12",
+    "standardname": "Colonia De Los Angeles",
+    "latitude": "40.40722037",
+    "longitude": "-3.784312507"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_13",
+    "standardname": "Prado Del Rey",
+    "latitude": "40.4104787",
+    "longitude": "-3.787391042"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_14",
+    "standardname": "Somosaguas Sur",
+    "latitude": "40.41537131",
+    "longitude": "-3.792551649"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_15",
+    "standardname": "Somosaguas Centro",
+    "latitude": "40.41937438",
+    "longitude": "-3.798645484"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_16",
+    "standardname": "Pozuelo Oeste",
+    "latitude": "40.4230823",
+    "longitude": "-3.804382885"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_18",
+    "standardname": "Belgica",
+    "latitude": "40.43059232",
+    "longitude": "-3.807455034"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_19",
+    "standardname": "Dos Castillas",
+    "latitude": "40.43254347",
+    "longitude": "-3.801524654"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_20",
+    "standardname": "Campus De Somosaguas",
+    "latitude": "40.43338924",
+    "longitude": "-3.795156477"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_21",
+    "standardname": "Avenida De Europa",
+    "latitude": "40.43931414",
+    "longitude": "-3.792962465"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_22",
+    "standardname": "Berna",
+    "latitude": "40.44487632",
+    "longitude": "-3.791105783"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_23",
+    "standardname": "Estacion De Aravaca",
+    "latitude": "40.4483427",
+    "longitude": "-3.786122909"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_24",
+    "standardname": "Colonia Jardin",
+    "latitude": "40.39687025",
+    "longitude": "-3.774789293"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_25",
+    "standardname": "Ciudad De La Imagen",
+    "latitude": "40.39709712",
+    "longitude": "-3.783900432"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_26",
+    "standardname": "Jose Isbert",
+    "latitude": "40.39526391",
+    "longitude": "-3.78984139"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_27",
+    "standardname": "Ciudad Del Cine",
+    "latitude": "40.39455861",
+    "longitude": "-3.795477165"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_28",
+    "standardname": "Retamares",
+    "latitude": "40.39872626",
+    "longitude": "-3.816654273"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_29",
+    "standardname": "Monteprincipe",
+    "latitude": "40.39793244",
+    "longitude": "-3.83571036"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_30",
+    "standardname": "Ventorro Del Cano",
+    "latitude": "40.39421305",
+    "longitude": "-3.838020939"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_31",
+    "standardname": "Prado Del Espino",
+    "latitude": "40.39502577",
+    "longitude": "-3.84764592"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_32",
+    "standardname": "Cantabria",
+    "latitude": "40.39529888",
+    "longitude": "-3.864298744"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_33",
+    "standardname": "Ferial De Boadilla",
+    "latitude": "40.40196954",
+    "longitude": "-3.87929103"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_34",
+    "standardname": "Boadilla Centro",
+    "latitude": "40.40714467",
+    "longitude": "-3.879947631"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_35",
+    "standardname": "Nuevo Mundo",
+    "latitude": "40.40565056",
+    "longitude": "-3.885667372"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_36",
+    "standardname": "Siglo XXI",
+    "latitude": "40.40513823",
+    "longitude": "-3.892542928"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_37",
+    "standardname": "Infante Don Luis",
+    "latitude": "40.40595714",
+    "longitude": "-3.897314826"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_38",
+    "standardname": "Puerta De Boadilla",
+    "latitude": "40.40778132",
+    "longitude": "-3.90369126"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_39",
+    "standardname": "Cocheras",
+    "latitude": "40.39688867",
+    "longitude": "-3.803764693"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_50",
+    "standardname": "Plaza De Toros",
+    "latitude": "40.2441101",
+    "longitude": "-3.757467072"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_51",
+    "standardname": "Julio Romero De Torres",
+    "latitude": "40.24535813",
+    "longitude": "-3.762230817"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_52",
+    "standardname": "La Ballena",
+    "latitude": "40.24599821",
+    "longitude": "-3.766258931"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_53",
+    "standardname": "Parla Centro - Bulevar Norte",
+    "latitude": "40.24063494",
+    "longitude": "-3.769396143"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_54",
+    "standardname": "Iglesia Centro",
+    "latitude": "40.23771769",
+    "longitude": "-3.770491666"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_55",
+    "standardname": "Bulevar Sur",
+    "latitude": "40.23474182",
+    "longitude": "-3.772268232"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_56",
+    "standardname": "Reyes Catolicos",
+    "latitude": "40.23142418",
+    "longitude": "-3.769903133"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_57",
+    "standardname": "Isabel II",
+    "latitude": "40.23115046",
+    "longitude": "-3.764986632"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_58",
+    "standardname": "Parque Parla Este",
+    "latitude": "40.22817418",
+    "longitude": "-3.761379917"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_59",
+    "standardname": "Avenida Sistema Solar",
+    "latitude": "40.22344032",
+    "longitude": "-3.760621721"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_60",
+    "standardname": "Tierra Norte",
+    "latitude": "40.22196132",
+    "longitude": "-3.753964753"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_61",
+    "standardname": "Tierra Sur",
+    "latitude": "40.22255641",
+    "longitude": "-3.756651051"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_62",
+    "standardname": "Venus Norte",
+    "latitude": "40.22627782",
+    "longitude": "-3.752414107"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_63",
+    "standardname": "Venus Sur",
+    "latitude": "40.22684577",
+    "longitude": "-3.755123767"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_64",
+    "standardname": "Estrella Polar Norte",
+    "latitude": "40.23016081",
+    "longitude": "-3.751023041"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_65",
+    "standardname": "Estrella Polar Sur",
+    "latitude": "40.2307288",
+    "longitude": "-3.753732848"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_66",
+    "standardname": "Jaime I Norte",
+    "latitude": "40.23415213",
+    "longitude": "-3.74959775"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_67",
+    "standardname": "Jaime I Sur",
+    "latitude": "40.23471113",
+    "longitude": "-3.752307603"
+  },
+  {
+    "@id": "http://madrid.linkedconnections.org/tram/stops/par_10_68",
+    "standardname": "Poligono Industrial Ciudad De Parla",
+    "latitude": "40.23867886",
+    "longitude": "-3.750353024"
+  }
+]

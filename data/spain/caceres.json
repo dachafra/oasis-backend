@@ -1,898 +1,1346 @@
 [
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/1",
-    "standardname": "1 - Plaza Obispo Galarza"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/1",
+    "standardname": "Plaza Obispo Galarza",
+    "latitude": "39.47559137",
+    "longitude": "-6.373467192"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/2",
-    "standardname": "2 - Barrio Nuevo (Colegio Las Delicias)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/2",
+    "standardname": "Barrio Nuevo (Colegio Las Delicias)",
+    "latitude": "39.47914755",
+    "longitude": "-6.374960842"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/3",
-    "standardname": "3 - Av. Hernan Cortes (frente num38)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/3",
+    "standardname": "Av. Hernan Cortes (frente num38)",
+    "latitude": "39.47636304",
+    "longitude": "-6.379715354"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/4",
-    "standardname": "4 - Gral. Primo de Rivera (frente a Multiples)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/4",
+    "standardname": "Gral. Primo de Rivera (frente a Multiples)",
+    "latitude": "39.4719545",
+    "longitude": "-6.377974556"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/5",
-    "standardname": "5 - Av. de Alemania, 2"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/5",
+    "standardname": "Av. de Alemania, 2",
+    "latitude": "39.46777915",
+    "longitude": "-6.379781844"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/6",
-    "standardname": "6 - Av. de Alemania (Parque)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/6",
+    "standardname": "Av. de Alemania (Parque)",
+    "latitude": "39.46496205",
+    "longitude": "-6.381898267"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/7",
-    "standardname": "7 - Av. de Alemania, 54 (Estacion FF.CC.)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/7",
+    "standardname": "Av. de Alemania, 54 (Estacion FF.CC.)",
+    "latitude": "39.46267687",
+    "longitude": "-6.383634297"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/8",
-    "standardname": "8 - Av. Constitucion (Glorieta del Minero pares)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/8",
+    "standardname": "Av. Constitucion (Glorieta del Minero pares)",
+    "latitude": "39.45267488",
+    "longitude": "-6.3875416"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/14",
-    "standardname": "14 - Rio Rodano (Bda. de la Abundancia)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/14",
+    "standardname": "Rio Rodano (Bda. de la Abundancia)",
+    "latitude": "39.45227082",
+    "longitude": "-6.39161225"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/15",
-    "standardname": "15 - A. Moret (cruce c/ Danubio)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/15",
+    "standardname": "A. Moret (cruce c/ Danubio)",
+    "latitude": "39.4518765",
+    "longitude": "-6.389697989"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/16",
-    "standardname": "16 - Jesus Nazareno (fte. num 47)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/16",
+    "standardname": "Jesus Nazareno (fte. num 47)",
+    "latitude": "39.45069211",
+    "longitude": "-6.389509841"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/17",
-    "standardname": "17 - Av. Constitucion, fte.2 (junto Gta. del Minero)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/17",
+    "standardname": "Av. Constitucion, fte.2 (junto Gta. del Minero)",
+    "latitude": "39.45205914",
+    "longitude": "-6.387401942"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/18",
-    "standardname": "18 - Av. de Alemania, 45 (Gasolinera)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/18",
+    "standardname": "Av. de Alemania, 45 (Gasolinera)",
+    "latitude": "39.46283874",
+    "longitude": "-6.383221455"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/19",
-    "standardname": "19 - Av. de Alemania, 27 (frente a Parque)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/19",
+    "standardname": "Av. de Alemania, 27 (frente a Parque)",
+    "latitude": "39.46476936",
+    "longitude": "-6.381742776"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/20",
-    "standardname": "20 - Plaza de America (cruce Av.Espana impares)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/20",
+    "standardname": "Plaza de America (cruce Av.Espana impares)",
+    "latitude": "39.46869563",
+    "longitude": "-6.378875709"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/21",
-    "standardname": "21 - Av. Espana, 1"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/21",
+    "standardname": "Av. Espana, 1",
+    "latitude": "39.4722935",
+    "longitude": "-6.376229881"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/22",
-    "standardname": "22 - Bda. Mejostilla (c/ A. Mariscal fte 5)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/22",
+    "standardname": "Bda. Mejostilla (c/ A. Mariscal fte 5)",
+    "latitude": "39.49027637",
+    "longitude": "-6.363950138"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/23",
-    "standardname": "23 - Ana Mariscal (fte. cruce c/ Gonzalo Mingo)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/23",
+    "standardname": "Ana Mariscal (fte. cruce c/ Gonzalo Mingo)",
+    "latitude": "39.49155037",
+    "longitude": "-6.362925329"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/24",
-    "standardname": "24 - Simon Benito Boxoyo, 92"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/24",
+    "standardname": "Simon Benito Boxoyo, 92",
+    "latitude": "39.49174612",
+    "longitude": "-6.361627333"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/25",
-    "standardname": "25 - Simon Benito Boxoyo, 2"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/25",
+    "standardname": "Simon Benito Boxoyo, 2",
+    "latitude": "39.48966733",
+    "longitude": "-6.359345748"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/26",
-    "standardname": "26 - Av. Heroes de Baler, 31"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/26",
+    "standardname": "Av. Heroes de Baler, 31",
+    "latitude": "39.4859335",
+    "longitude": "-6.362730731"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/27",
-    "standardname": "27 - Av. Heroes de Baler, 23"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/27",
+    "standardname": "Av. Heroes de Baler, 23",
+    "latitude": "39.48364062",
+    "longitude": "-6.365305284"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/28",
-    "standardname": "28 - Av. Heroes de Baler, 5"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/28",
+    "standardname": "Av. Heroes de Baler, 5",
+    "latitude": "39.48182878",
+    "longitude": "-6.367245375"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/29",
-    "standardname": "29 - Av. Delicias (Plaza Toros)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/29",
+    "standardname": "Av. Delicias (Plaza Toros)",
+    "latitude": "39.4802907",
+    "longitude": "-6.374917841"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/30",
-    "standardname": "30 - Av. Antonio Hurtado, 4"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/30",
+    "standardname": "Av. Antonio Hurtado, 4",
+    "latitude": "39.46779797",
+    "longitude": "-6.378618836"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/31",
-    "standardname": "31 - Av. I. Moctezuma (Colegio Enfermeria)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/31",
+    "standardname": "Av. I. Moctezuma (Colegio Enfermeria)",
+    "latitude": "39.465713",
+    "longitude": "-6.379243382"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/32",
-    "standardname": "32 - Av. I.Moctezuma (Colegio G. de los Rios)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/32",
+    "standardname": "Av. I.Moctezuma (Colegio G. de los Rios)",
+    "latitude": "39.46358286",
+    "longitude": "-6.379462802"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/33",
-    "standardname": "33 - Av. I. Moctezuma (Palacio de Congresos)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/33",
+    "standardname": "Av. I. Moctezuma (Palacio de Congresos)",
+    "latitude": "39.46132618",
+    "longitude": "-6.379663709"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/34",
-    "standardname": "34 - Av. Hispanidad (Pabellon Multiusos)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/34",
+    "standardname": "Av. Hispanidad (Pabellon Multiusos)",
+    "latitude": "39.46077049",
+    "longitude": "-6.378592106"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/35",
-    "standardname": "35 - Rda. Pizarra pares"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/35",
+    "standardname": "Rda. Pizarra pares",
+    "latitude": "39.45841168",
+    "longitude": "-6.377460393"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/36",
-    "standardname": "36 - Av. Dulcinea,25 (cruce Rda. Pizarra)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/36",
+    "standardname": "Av. Dulcinea,25 (cruce Rda. Pizarra)",
+    "latitude": "39.4561593",
+    "longitude": "-6.376255029"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/37",
-    "standardname": "37 - Av. Bondad (fte. 44)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/37",
+    "standardname": "Av. Bondad (fte. 44)",
+    "latitude": "39.45769797",
+    "longitude": "-6.374976985"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/38",
-    "standardname": "38 - Av. Bondad, 27 (cruce C/ Colombia)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/38",
+    "standardname": "Av. Bondad, 27 (cruce C/ Colombia)",
+    "latitude": "39.45945582",
+    "longitude": "-6.375027128"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/39",
-    "standardname": "39 - Colombia impares (cruce C/ Ecuador)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/39",
+    "standardname": "Colombia impares (cruce C/ Ecuador)",
+    "latitude": "39.45946013",
+    "longitude": "-6.372028587"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/40",
-    "standardname": "40 - Espiritu Santo (c/ R. Sur Yon, 5)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/40",
+    "standardname": "Espiritu Santo (c/ R. Sur Yon, 5)",
+    "latitude": "39.46068542",
+    "longitude": "-6.370041632"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/41",
-    "standardname": "41 - Colombia pares (cruce C/ Ecuador)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/41",
+    "standardname": "Colombia pares (cruce C/ Ecuador)",
+    "latitude": "39.45945559",
+    "longitude": "-6.372226325"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/42",
-    "standardname": "42 - Av. Bondad (fte. 29)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/42",
+    "standardname": "Av. Bondad (fte. 29)",
+    "latitude": "39.45925378",
+    "longitude": "-6.375255533"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/43",
-    "standardname": "43 - Av. Bondad, 54"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/43",
+    "standardname": "Av. Bondad, 54",
+    "latitude": "39.45743003",
+    "longitude": "-6.375080026"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/44",
-    "standardname": "44 - Av. Dulcinea, fte. 25 (cruce Rda. Pizarra)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/44",
+    "standardname": "Av. Dulcinea, fte. 25 (cruce Rda. Pizarra)",
+    "latitude": "39.45642583",
+    "longitude": "-6.37648906"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/45",
-    "standardname": "45 - Rda. Pizarra impares"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/45",
+    "standardname": "Rda. Pizarra impares",
+    "latitude": "39.45855072",
+    "longitude": "-6.377234364"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/46",
-    "standardname": "46 - Av. I. de Moctezuma (fte. a P. Congresos)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/46",
+    "standardname": "Av. I. de Moctezuma (fte. a P. Congresos)",
+    "latitude": "39.4614647",
+    "longitude": "-6.37941445"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/47",
-    "standardname": "47 - Av. Isabel de Moctezuma,15"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/47",
+    "standardname": "Av. Isabel de Moctezuma,15",
+    "latitude": "39.46399011",
+    "longitude": "-6.379145336"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/48",
-    "standardname": "48 - Av. I. Moctezuma (fte. Colegio Enfermeria)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/48",
+    "standardname": "Av. I. Moctezuma (fte. Colegio Enfermeria)",
+    "latitude": "39.46530192",
+    "longitude": "-6.378991492"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/49",
-    "standardname": "49 - Av. Delicias (fte. Pza. Toros)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/49",
+    "standardname": "Av. Delicias (fte. Pza. Toros)",
+    "latitude": "39.48026666",
+    "longitude": "-6.374651368"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/50",
-    "standardname": "50 - Av. Heroes de Baler (fte. 5)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/50",
+    "standardname": "Av. Heroes de Baler (fte. 5)",
+    "latitude": "39.48177057",
+    "longitude": "-6.367061566"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/51",
-    "standardname": "51 - Av. Heroes de Baler (fte 23)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/51",
+    "standardname": "Av. Heroes de Baler (fte 23)",
+    "latitude": "39.48354613",
+    "longitude": "-6.365111216"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/52",
-    "standardname": "52 - Av. Heroes de Baler (junto Rda. Norte)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/52",
+    "standardname": "Av. Heroes de Baler (junto Rda. Norte)",
+    "latitude": "39.48635794",
+    "longitude": "-6.361982244"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/53",
-    "standardname": "53 - Licenciado Juan Rodriguez Molina, 4"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/53",
+    "standardname": "Licenciado Juan Rodriguez Molina, 4",
+    "latitude": "39.4904134",
+    "longitude": "-6.358480379"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/54",
-    "standardname": "54 - Licenciado Juan Rodriguez Molina, 74"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/54",
+    "standardname": "Licenciado Juan Rodriguez Molina, 74",
+    "latitude": "39.49275676",
+    "longitude": "-6.359717134"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/55",
-    "standardname": "55 - Tomas Pulido, 36"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/55",
+    "standardname": "Tomas Pulido, 36",
+    "latitude": "39.49411527",
+    "longitude": "-6.361223779"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/56",
-    "standardname": "56 - Jose Bermudo Mateos (cruce Manuel Castillo)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/56",
+    "standardname": "Jose Bermudo Mateos (cruce Manuel Castillo)",
+    "latitude": "39.4941145",
+    "longitude": "-6.363967872"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/57",
-    "standardname": "57 - Ana Mariscal (cruce c/ Gonzalo Mingo)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/57",
+    "standardname": "Ana Mariscal (cruce c/ Gonzalo Mingo)",
+    "latitude": "39.49167081",
+    "longitude": "-6.363071927"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/58",
-    "standardname": "58 - Plaza de America (parada taxis)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/58",
+    "standardname": "Plaza de America (parada taxis)",
+    "latitude": "39.46863541",
+    "longitude": "-6.379401013"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/59",
-    "standardname": "59 - General Primo de Rivera (Multiples)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/59",
+    "standardname": "General Primo de Rivera (Multiples)",
+    "latitude": "39.47232398",
+    "longitude": "-6.378379134"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/60",
-    "standardname": "60 - Av. Hernan Cortes, 36"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/60",
+    "standardname": "Av. Hernan Cortes, 36",
+    "latitude": "39.47619578",
+    "longitude": "-6.379489145"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/61",
-    "standardname": "61 - Av. Universidad (fte. Diocesano)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/61",
+    "standardname": "Av. Universidad (fte. Diocesano)",
+    "latitude": "39.48137194",
+    "longitude": "-6.366565095"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/62",
-    "standardname": "62 - Av. Universidad (Gasolinera)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/62",
+    "standardname": "Av. Universidad (Gasolinera)",
+    "latitude": "39.48182737",
+    "longitude": "-6.363606697"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/63",
-    "standardname": "63 - Av. Universidad (fte. Empresariales)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/63",
+    "standardname": "Av. Universidad (fte. Empresariales)",
+    "latitude": "39.48064922",
+    "longitude": "-6.357745639"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/64",
-    "standardname": "64 - Av. Universidad (Residencia Asistida)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/64",
+    "standardname": "Av. Universidad (Residencia Asistida)",
+    "latitude": "39.47663636",
+    "longitude": "-6.340983998"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/65",
-    "standardname": "65 - Centro Penitenciario"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/65",
+    "standardname": "Centro Penitenciario",
+    "latitude": "39.47328434",
+    "longitude": "-6.338589317"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/66",
-    "standardname": "66 - Av. Universidad (Universidad Laboral)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/66",
+    "standardname": "Av. Universidad (Universidad Laboral)",
+    "latitude": "39.47873483",
+    "longitude": "-6.352796206"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/67",
-    "standardname": "67 - Av. Universidad (Empresariales)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/67",
+    "standardname": "Av. Universidad (Empresariales)",
+    "latitude": "39.48142195",
+    "longitude": "-6.358448771"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/68",
-    "standardname": "68 - Av. Universidad, 25 (Urb. Las Candelas)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/68",
+    "standardname": "Av. Universidad, 25 (Urb. Las Candelas)",
+    "latitude": "39.48216342",
+    "longitude": "-6.362536089"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/69",
-    "standardname": "69 - Av. Universidad, 1 (Colegio Diocesano)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/69",
+    "standardname": "Av. Universidad, 1 (Colegio Diocesano)",
+    "latitude": "39.48155538",
+    "longitude": "-6.366709301"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/70",
-    "standardname": "70 - Campus (fte. a Veterinaria)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/70",
+    "standardname": "Campus (fte. a Veterinaria)",
+    "latitude": "39.47938274",
+    "longitude": "-6.345261941"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/71",
-    "standardname": "71 - Campus (Politecnica)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/71",
+    "standardname": "Campus (Politecnica)",
+    "latitude": "39.47968378",
+    "longitude": "-6.341879255"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/72",
-    "standardname": "72 - Campus (Derecho)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/72",
+    "standardname": "Campus (Derecho)",
+    "latitude": "39.47895729",
+    "longitude": "-6.338477606"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/73",
-    "standardname": "73 - Campus (fte. a Politecnica)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/73",
+    "standardname": "Campus (fte. a Politecnica)",
+    "latitude": "39.47997579",
+    "longitude": "-6.342042507"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/74",
-    "standardname": "74 - Campus (Veterinaria)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/74",
+    "standardname": "Campus (Veterinaria)",
+    "latitude": "39.47948097",
+    "longitude": "-6.345618576"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/75",
-    "standardname": "75 - Tunez (fte. Estacion de autobus)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/75",
+    "standardname": "Tunez (fte. Estacion de autobuses)",
+    "latitude": "39.46051743",
+    "longitude": "-6.382553022"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/77",
-    "standardname": "77 - Av. Juan Pablo II, 116 (Peugeot)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/77",
+    "standardname": "Av. Juan Pablo II, 116 (Peugeot)",
+    "latitude": "39.45065895",
+    "longitude": "-6.382027685"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/78",
-    "standardname": "78 - Recinto Ferial"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/78",
+    "standardname": "Recinto Ferial",
+    "latitude": "39.44146096",
+    "longitude": "-6.376435182"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/79",
-    "standardname": "79 - Estacion I.T.V."
+    "@id": "http://caceres.linkedconnections.org/bus/stops/79",
+    "standardname": "Estacion I.T.V.",
+    "latitude": "39.4370835",
+    "longitude": "-6.374078424"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/80",
-    "standardname": "80 - Urb. Ceres Golf (vuelta)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/80",
+    "standardname": "Urb. Ceres Golf (vuelta)",
+    "latitude": "39.43320616",
+    "longitude": "-6.372725462"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/81",
-    "standardname": "81 - CEFOT"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/81",
+    "standardname": "CEFOT",
+    "latitude": "39.43040094",
+    "longitude": "-6.36540777"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/82",
-    "standardname": "82 - Valdesalor"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/82",
+    "standardname": "Valdesalor",
+    "latitude": "39.37804277",
+    "longitude": "-6.346449075"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/83",
-    "standardname": "83 - Urb. Ceres Golf (ida)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/83",
+    "standardname": "Urb. Ceres Golf (ida)",
+    "latitude": "39.43330325",
+    "longitude": "-6.373035479"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/86",
-    "standardname": "86 - Tunez (Estacion de autobus)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/86",
+    "standardname": "Tunez (Estacion de autobuses)",
+    "latitude": "39.4604942",
+    "longitude": "-6.382321456"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/87",
-    "standardname": "87 - P. Capellanias (C. Segur. Laboral)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/87",
+    "standardname": "P. Capellanias (C. Segur. Laboral)",
+    "latitude": "39.48700905",
+    "longitude": "-6.41419435"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/91",
-    "standardname": "91 - Carlos Callejo, (cruce Miguel Serrano)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/91",
+    "standardname": "Carlos Callejo, (cruce Miguel Serrano)",
+    "latitude": "39.46949499",
+    "longitude": "-6.396803732"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/92",
-    "standardname": "92 - Av. de las Arenas (Carrefour)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/92",
+    "standardname": "Av. de las Arenas (Carrefour)",
+    "latitude": "39.4688483",
+    "longitude": "-6.395281956"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/93",
-    "standardname": "93 - Londres (Colegio Ldos. Reunidos)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/93",
+    "standardname": "Londres (Colegio Ldos. Reunidos)",
+    "latitude": "39.46915604",
+    "longitude": "-6.391330183"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/94",
-    "standardname": "94 - Londres (C.C. Ruta de la Plata)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/94",
+    "standardname": "Londres (C.C. Ruta de la Plata)",
+    "latitude": "39.46800207",
+    "longitude": "-6.388083971"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/97",
-    "standardname": "97 - Av. Antonio Hurtado,32 (frente a Las Torres)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/97",
+    "standardname": "Av. Antonio Hurtado,32 (frente a Las Torres)",
+    "latitude": "39.46435919",
+    "longitude": "-6.375540146"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/98",
-    "standardname": "98 - Av. de Cervantes (fte. Resid. Ancianos)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/98",
+    "standardname": "Av. de Cervantes (fte. Resid. Ancianos)",
+    "latitude": "39.46221601",
+    "longitude": "-6.373586832"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/99",
-    "standardname": "99 - Av. Cervantes, 2"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/99",
+    "standardname": "Av. Cervantes, 2",
+    "latitude": "39.46047699",
+    "longitude": "-6.371978699"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/100",
-    "standardname": "100 - Poligono Charca Musia"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/100",
+    "standardname": "Poligono Charca Musia",
+    "latitude": "39.45322574",
+    "longitude": "-6.366046146"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/101",
-    "standardname": "101 - Av. Cervantes (fte. Casa Cultura)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/101",
+    "standardname": "Av. Cervantes (fte. Casa Cultura)",
+    "latitude": "39.45886134",
+    "longitude": "-6.370249784"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/102",
-    "standardname": "102 - Av. Cervantes, fte. num 2"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/102",
+    "standardname": "Av. Cervantes, fte. num 2",
+    "latitude": "39.46054506",
+    "longitude": "-6.37180181"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/103",
-    "standardname": "103 - Av. de Cervantes (Resid. Ancianos)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/103",
+    "standardname": "Av. de Cervantes (Resid. Ancianos)",
+    "latitude": "39.46210781",
+    "longitude": "-6.373184129"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/104",
-    "standardname": "104 - Av. Antonio Hurtado (Las Torres)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/104",
+    "standardname": "Av. Antonio Hurtado (Las Torres)",
+    "latitude": "39.46417741",
+    "longitude": "-6.375070459"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/105",
-    "standardname": "105 - Av. Antonio Hurtado,23 (cruce M. Sorapan)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/105",
+    "standardname": "Av. Antonio Hurtado,23 (cruce M. Sorapan)",
+    "latitude": "39.46600002",
+    "longitude": "-6.376791837"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/106",
-    "standardname": "106 - Av. Virgen de Guadalupe,38"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/106",
+    "standardname": "Av. Virgen de Guadalupe,38",
+    "latitude": "39.46819939",
+    "longitude": "-6.385240551"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/107",
-    "standardname": "107 - Londres (frente a C.C. Ruta de la Plata)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/107",
+    "standardname": "Londres (frente a C.C. Ruta de la Plata)",
+    "latitude": "39.46831842",
+    "longitude": "-6.388130251"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/108",
-    "standardname": "108 - Londres (fte. Colegio Ldos. Reunidos)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/108",
+    "standardname": "Londres (fte. Colegio Ldos. Reunidos)",
+    "latitude": "39.46940599",
+    "longitude": "-6.391227857"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/109",
-    "standardname": "109 - Carlos Callejo (frente n um 10)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/109",
+    "standardname": "Carlos Callejo (frente n um 10)",
+    "latitude": "39.46930456",
+    "longitude": "-6.3963459"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/110",
-    "standardname": "110 - Claudio Rodriguez, 27"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/110",
+    "standardname": "Claudio Rodriguez, 27",
+    "latitude": "39.47153355",
+    "longitude": "-6.39732052"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/113",
-    "standardname": "113 - Rotonda c/ Villuercas (ida)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/113",
+    "standardname": "Rotonda c/ Villuercas (ida)",
+    "latitude": "39.4798681",
+    "longitude": "-6.401810865"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/115",
-    "standardname": "115 - P. Capellanias, c/Molineros (Catelsa)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/115",
+    "standardname": "P. Capellanias, c/Molineros (Catelsa)",
+    "latitude": "39.49010007",
+    "longitude": "-6.415858682"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/116",
-    "standardname": "116 - P. Capellanias, c/Molineros (Subus)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/116",
+    "standardname": "P. Capellanias, c/Molineros (Subus)",
+    "latitude": "39.48887884",
+    "longitude": "-6.420903362"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/117",
-    "standardname": "117 - P. Capellanias, c/Labradores (cruce Herreros)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/117",
+    "standardname": "P. Capellanias, c/Labradores (cruce Herreros)",
+    "latitude": "39.48557564",
+    "longitude": "-6.422664742"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/121",
-    "standardname": "121 - Puente Vadillo (cruce Betania)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/121",
+    "standardname": "Puente Vadillo (cruce Betania)",
+    "latitude": "39.47836558",
+    "longitude": "-6.366678542"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/122",
-    "standardname": "122 - Ronda del Puente Vadillo"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/122",
+    "standardname": "Ronda del Puente Vadillo",
+    "latitude": "39.47586975",
+    "longitude": "-6.365866012"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/124",
-    "standardname": "124 - Concordia, 30"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/124",
+    "standardname": "Concordia, 30",
+    "latitude": "39.47414401",
+    "longitude": "-6.365245321"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/125",
-    "standardname": "125 - Bum San Marquino"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/125",
+    "standardname": "Bum San Marquino",
+    "latitude": "39.47293245",
+    "longitude": "-6.36624421"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/126",
-    "standardname": "126 - Fuente Concejo"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/126",
+    "standardname": "Fuente Concejo",
+    "latitude": "39.47278737",
+    "longitude": "-6.368190864"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/129",
-    "standardname": "129 - Resid. El Arco (Colegio Fco. Aldana)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/129",
+    "standardname": "Resid. El Arco (Colegio Fco. Aldana)",
+    "latitude": "39.47529634",
+    "longitude": "-6.399202845"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/130",
-    "standardname": "130 - Libra impares (cruce C/ Escorpio)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/130",
+    "standardname": "Libra impares (cruce C/ Escorpio)",
+    "latitude": "39.47600287",
+    "longitude": "-6.395352081"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/131",
-    "standardname": "131 - Libra impares (cruce C/ Osa Mayor)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/131",
+    "standardname": "Libra impares (cruce C/ Osa Mayor)",
+    "latitude": "39.47511589",
+    "longitude": "-6.392758096"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/132",
-    "standardname": "132 - A.D. Bustamante, 1"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/132",
+    "standardname": "A.D. Bustamante, 1",
+    "latitude": "39.4720726",
+    "longitude": "-6.388419867"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/134",
-    "standardname": "134 - Plaza de los Conquistadores (cruce Av. Brocense)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/134",
+    "standardname": "Plaza de los Conquistadores (cruce Av. Brocense)",
+    "latitude": "39.46898671",
+    "longitude": "-6.373413492"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/135",
-    "standardname": "135 - Rda. S. Francisco, 4 (cruce c/Romero Ruiz)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/135",
+    "standardname": "Rda. S. Francisco, 4 (cruce c/Romero Ruiz)",
+    "latitude": "39.46905495",
+    "longitude": "-6.369261434"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/136",
-    "standardname": "136 - Rda. S. Francisco (Hospital S.P. Alcantara)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/136",
+    "standardname": "Rda. S. Francisco (Hospital S.P. Alcantara)",
+    "latitude": "39.46622221",
+    "longitude": "-6.367892085"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/137",
-    "standardname": "137 - Av. Hispanidad (Juzgados)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/137",
+    "standardname": "Av. Hispanidad (Juzgados)",
+    "latitude": "39.46259023",
+    "longitude": "-6.368226571"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/138",
-    "standardname": "138 - Av. Hispanidad (frente num 37)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/138",
+    "standardname": "Av. Hispanidad (frente num 37)",
+    "latitude": "39.46171772",
+    "longitude": "-6.371071978"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/139",
-    "standardname": "139 - Av. Hispanidad (fte. Pabellon Moctezuma)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/139",
+    "standardname": "Av. Hispanidad (fte. Pabellon Moctezuma)",
+    "latitude": "39.4611137",
+    "longitude": "-6.375836452"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/140",
-    "standardname": "140 - Av. Hispanidad (fte. Pabellon Multiusos)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/140",
+    "standardname": "Av. Hispanidad (fte. Pabellon Multiusos)",
+    "latitude": "39.46095244",
+    "longitude": "-6.378271485"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/144",
-    "standardname": "144 - Pierre de Coubertin (cruce C/ La Habana)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/144",
+    "standardname": "Pierre de Coubertin (cruce C/ La Habana)",
+    "latitude": "39.45350315",
+    "longitude": "-6.377516866"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/145",
-    "standardname": "145 - Pierre de Coubertin (fte. num 34)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/145",
+    "standardname": "Pierre de Coubertin (fte. num 34)",
+    "latitude": "39.45640239",
+    "longitude": "-6.37824473"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/146",
-    "standardname": "146 - Pierre de Coubertin, (fte. num 12)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/146",
+    "standardname": "Pierre de Coubertin, (fte. num 12)",
+    "latitude": "39.45880447",
+    "longitude": "-6.378898334"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/147",
-    "standardname": "147 - Av. Hispanidad, 49"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/147",
+    "standardname": "Av. Hispanidad, 49",
+    "latitude": "39.46100489",
+    "longitude": "-6.374608621"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/148",
-    "standardname": "148 - Av. Hispanidad, 37"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/148",
+    "standardname": "Av. Hispanidad, 37",
+    "latitude": "39.46153586",
+    "longitude": "-6.370997471"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/149",
-    "standardname": "149 - Av. Hispanidad, 9 (frente a Juzgados)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/149",
+    "standardname": "Av. Hispanidad, 9 (frente a Juzgados)",
+    "latitude": "39.46250797",
+    "longitude": "-6.367776409"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/150",
-    "standardname": "150 - Rda. S. Francisco (fte. Htal. S. P. Alcantara)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/150",
+    "standardname": "Rda. S. Francisco (fte. Htal. S. P. Alcantara)",
+    "latitude": "39.46613673",
+    "longitude": "-6.367697721"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/151",
-    "standardname": "151 - Puente S. Francisco(Residencial San Francisco)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/151",
+    "standardname": "Puente S. Francisco(Residencial San Francisco)",
+    "latitude": "39.46924345",
+    "longitude": "-6.369231085"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/152",
-    "standardname": "152 - Colon (cruce Pza Conquistadores)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/152",
+    "standardname": "Colon (cruce Pza Conquistadores)",
+    "latitude": "39.46960194",
+    "longitude": "-6.373529824"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/153",
-    "standardname": "153 - A. D. Bustamante, 2 (cruce Islas Canarias)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/153",
+    "standardname": "A. D. Bustamante, 2 (cruce Islas Canarias)",
+    "latitude": "39.47230741",
+    "longitude": "-6.388445954"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/154",
-    "standardname": "154 - Libra, pares (cruce C/ Osa Mayor)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/154",
+    "standardname": "Libra, pares (cruce C/ Osa Mayor)",
+    "latitude": "39.47526865",
+    "longitude": "-6.392740765"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/155",
-    "standardname": "155 - Libra pares (cruce C/ Escorpio)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/155",
+    "standardname": "Libra pares (cruce C/ Escorpio)",
+    "latitude": "39.47618316",
+    "longitude": "-6.395356978"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/156",
-    "standardname": "156 - Av. Hispanidad (estacion autobus)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/156",
+    "standardname": "Av. Hispanidad (estacion autobuses)",
+    "latitude": "39.46084661",
+    "longitude": "-6.381169303"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/157",
-    "standardname": "157 - Arsenio Gallego (fte. Centro de Salud)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/157",
+    "standardname": "Arsenio Gallego (fte. Centro de Salud)",
+    "latitude": "39.4864839",
+    "longitude": "-6.365151411"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/160",
-    "standardname": "160 - Bda. Cerro de los Pinos"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/160",
+    "standardname": "Bda. Cerro de los Pinos",
+    "latitude": "39.45559033",
+    "longitude": "-6.391802056"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/161",
-    "standardname": "161 - Campus (Filosofia y Letras)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/161",
+    "standardname": "Campus (Filosofia y Letras)",
+    "latitude": "39.47921064",
+    "longitude": "-6.338526068"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/162",
-    "standardname": "162 - Av. Antonio Hurtado, 22"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/162",
+    "standardname": "Av. Antonio Hurtado, 22",
+    "latitude": "39.46582105",
+    "longitude": "-6.376845052"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/163",
-    "standardname": "163 - Av. Cervantes (Casa Cultura)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/163",
+    "standardname": "Av. Cervantes (Casa Cultura)",
+    "latitude": "39.45874006",
+    "longitude": "-6.370463538"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/164",
-    "standardname": "164 - Club de Tenis Cabezarrubia"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/164",
+    "standardname": "Club de Tenis Cabezarrubia",
+    "latitude": "39.47693445",
+    "longitude": "-6.401954953"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/165",
-    "standardname": "165 - P. Capellanias (c/Molineros cruce Toneleros)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/165",
+    "standardname": "P. Capellanias (c/Molineros cruce Toneleros)",
+    "latitude": "39.4895481",
+    "longitude": "-6.418181219"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/167",
-    "standardname": "167 - Av. Juan Pablo II,130 (Porcelanosa)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/167",
+    "standardname": "Av. Juan Pablo II,130 (Porcelanosa)",
+    "latitude": "39.44872323",
+    "longitude": "-6.380880139"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/168",
-    "standardname": "168 - Ceres Golf (Calerizo,26)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/168",
+    "standardname": "Ceres Golf (Calerizo,26)",
+    "latitude": "39.43137201",
+    "longitude": "-6.376476968"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/169",
-    "standardname": "169 - Ceres Golf (Cerro Romanos, 7)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/169",
+    "standardname": "Ceres Golf (Cerro Romanos, 7)",
+    "latitude": "39.42109402",
+    "longitude": "-6.384122123"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/170",
-    "standardname": "170 - Ceres Golf (Alcor del Roble, 9)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/170",
+    "standardname": "Ceres Golf (Alcor del Roble, 9)",
+    "latitude": "39.42204457",
+    "longitude": "-6.3819261"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/171",
-    "standardname": "171 - Ceres Golf (Calerizo, frente num26)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/171",
+    "standardname": "Ceres Golf (Calerizo, frente num26)",
+    "latitude": "39.43138739",
+    "longitude": "-6.376360221"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/172",
-    "standardname": "172 - A. D. Bustamante (Parque)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/172",
+    "standardname": "A. D. Bustamante (Parque)",
+    "latitude": "39.47400513",
+    "longitude": "-6.390230664"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/173",
-    "standardname": "173 - A. D. Bustamante,28 (cruce Islas Baleares)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/173",
+    "standardname": "A. D. Bustamante,28 (cruce Islas Baleares)",
+    "latitude": "39.47414236",
+    "longitude": "-6.389923306"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/174",
-    "standardname": "174 - Urbanizacion La Canada"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/174",
+    "standardname": "Urbanizacion La Canada",
+    "latitude": "39.44536635",
+    "longitude": "-6.386234658"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/176",
-    "standardname": "176 - Av. Ruta de la Plata, 13"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/176",
+    "standardname": "Av. Ruta de la Plata, 13",
+    "latitude": "39.47207793",
+    "longitude": "-6.391465093"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/177",
-    "standardname": "177 - Av. Ruta de la Plata (Edificio Atenas)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/177",
+    "standardname": "Av. Ruta de la Plata (Edificio Atenas)",
+    "latitude": "39.47003108",
+    "longitude": "-6.385369544"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/178",
-    "standardname": "178 - Av. Ruta de la Plata, 4 (Edificio las Pergolas)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/178",
+    "standardname": "Av. Ruta de la Plata, 4 (Edificio las Pergolas)",
+    "latitude": "39.46986171",
+    "longitude": "-6.38424842"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/179",
-    "standardname": "179 - Av. Ruta de la Plata, 24"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/179",
+    "standardname": "Av. Ruta de la Plata, 24",
+    "latitude": "39.47166454",
+    "longitude": "-6.389504513"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/180",
-    "standardname": "180 - Av. Ruta de la Plata, 42"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/180",
+    "standardname": "Av. Ruta de la Plata, 42",
+    "latitude": "39.47255799",
+    "longitude": "-6.39198185"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/181",
-    "standardname": "181 - Rotonda Jesus Delgado V. (Asoc. Vecinos)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/181",
+    "standardname": "Rotonda Jesus Delgado V. (Asoc. Vecinos)",
+    "latitude": "39.47294848",
+    "longitude": "-6.40016212"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/182",
-    "standardname": "182 - Av. Cuatro Lugares (Rotonda central)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/182",
+    "standardname": "Av. Cuatro Lugares (Rotonda central)",
+    "latitude": "39.4965738",
+    "longitude": "-6.358014513"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/185",
-    "standardname": "185 - Pablo Naranjo (Hospital)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/185",
+    "standardname": "Pablo Naranjo (Hospital)",
+    "latitude": "39.46658753",
+    "longitude": "-6.369703093"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/186",
-    "standardname": "186 - Av. Univesidad (C.Guardia Civil)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/186",
+    "standardname": "Av. Univesidad (C.Guardia Civil)",
+    "latitude": "39.47830199",
+    "longitude": "-6.351987268"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/190",
-    "standardname": "190 - Juan Jose Narbon (Residencial Gredos)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/190",
+    "standardname": "Juan Jose Narbon (Residencial Gredos)",
+    "latitude": "39.49583844",
+    "longitude": "-6.366495689"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/191",
-    "standardname": "191 - Rotonda c/ Villuercas (vta,)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/191",
+    "standardname": "Rotonda c/ Villuercas (vta,)",
+    "latitude": "39.47989865",
+    "longitude": "-6.401565601"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/192",
-    "standardname": "192 - Rio Salor (ida)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/192",
+    "standardname": "Rio Salor (ida)",
+    "latitude": "39.47926475",
+    "longitude": "-6.403030701"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/193",
-    "standardname": "193 - Rio Salor (vta.)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/193",
+    "standardname": "Rio Salor (vta.)",
+    "latitude": "39.47942219",
+    "longitude": "-6.403222468"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/194",
-    "standardname": "194 - Fte. Colegio San Antonio"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/194",
+    "standardname": "Fte. Colegio San Antonio",
+    "latitude": "39.47973418",
+    "longitude": "-6.409128016"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/195",
-    "standardname": "195 - Colegio San Antonio"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/195",
+    "standardname": "Colegio San Antonio",
+    "latitude": "39.4798782",
+    "longitude": "-6.409122669"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/206",
-    "standardname": "206 - P. Capellanias, c/Herreros (Norba)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/206",
+    "standardname": "P. Capellanias, c/Herreros (Norba)",
+    "latitude": "39.48594486",
+    "longitude": "-6.420628157"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/207",
-    "standardname": "207 - P. Capellanias, c/Herreros (Prosegur)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/207",
+    "standardname": "P. Capellanias, c/Herreros (Prosegur)",
+    "latitude": "39.48670358",
+    "longitude": "-6.417472646"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/208",
-    "standardname": "208 - P. Capellanias (frente a C. Segur. Laboral)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/208",
+    "standardname": "P. Capellanias (frente a C. Segur. Laboral)",
+    "latitude": "39.48709596",
+    "longitude": "-6.414051613"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/209",
-    "standardname": "209 - P. Capellanias, Hilanderas (Fte. Tuco)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/209",
+    "standardname": "P. Capellanias, Hilanderas (Fte. Tuco)",
+    "latitude": "39.48435965",
+    "longitude": "-6.412943938"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/210",
-    "standardname": "210 - P. Capellanias, Hilanderas (Tuco)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/210",
+    "standardname": "P. Capellanias, Hilanderas (Tuco)",
+    "latitude": "39.48435453",
+    "longitude": "-6.413118516"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/211",
-    "standardname": "211 - Res. Macondo (c/ Jose Arcadio Buendia)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/211",
+    "standardname": "Res. Macondo (c/ Jose Arcadio Buendia)",
+    "latitude": "39.4700775",
+    "longitude": "-6.402303145"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/214",
-    "standardname": "214 - Emilio Cardenal Hernandez (fte. 4)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/214",
+    "standardname": "Emilio Cardenal Hernandez (fte. 4)",
+    "latitude": "39.49143218",
+    "longitude": "-6.368440969"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/215",
-    "standardname": "215 - Emilio Cardenal Hernandez, 4"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/215",
+    "standardname": "Emilio Cardenal Hernandez, 4",
+    "latitude": "39.49159715",
+    "longitude": "-6.368167325"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/216",
-    "standardname": "216 - Frente Recinto Ferial"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/216",
+    "standardname": "Frente Recinto Ferial",
+    "latitude": "39.44164989",
+    "longitude": "-6.376823123"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/217",
-    "standardname": "217 - Frente a Estacion I.T.V."
+    "@id": "http://caceres.linkedconnections.org/bus/stops/217",
+    "standardname": "Frente a Estacion I.T.V.",
+    "latitude": "39.43664035",
+    "longitude": "-6.374002132"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/218",
-    "standardname": "218 - Ceclavin (frente num 17)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/218",
+    "standardname": "Ceclavin (frente num 17)",
+    "latitude": "39.47957245",
+    "longitude": "-6.372236239"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/219",
-    "standardname": "219 - Ceclavin (cruce avda. San Blas)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/219",
+    "standardname": "Ceclavin (cruce avda. San Blas)",
+    "latitude": "39.47948395",
+    "longitude": "-6.369519331"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/220",
-    "standardname": "220 - San Petersburgo (frente num 9)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/220",
+    "standardname": "San Petersburgo (frente num 9)",
+    "latitude": "39.45754221",
+    "longitude": "-6.382850469"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/221",
-    "standardname": "221 - San Petersburgo, 9"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/221",
+    "standardname": "San Petersburgo, 9",
+    "latitude": "39.45763835",
+    "longitude": "-6.382719032"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/222",
-    "standardname": "222 - San Petersburgo (frente num 25)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/222",
+    "standardname": "San Petersburgo (frente num 25)",
+    "latitude": "39.45588322",
+    "longitude": "-6.382389687"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/223",
-    "standardname": "223 - San Petersburgo, 25"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/223",
+    "standardname": "San Petersburgo, 25",
+    "latitude": "39.45586234",
+    "longitude": "-6.382262638"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/224",
-    "standardname": "224 - Av. de las Arenas (ida)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/224",
+    "standardname": "Av. de las Arenas (ida)",
+    "latitude": "39.47034134",
+    "longitude": "-6.391158033"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/225",
-    "standardname": "225 - Av. de las Arenas (vuelta)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/225",
+    "standardname": "Av. de las Arenas (vuelta)",
+    "latitude": "39.47012936",
+    "longitude": "-6.390945109"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/226",
-    "standardname": "226 - Pierre de Coubertin, 12"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/226",
+    "standardname": "Pierre de Coubertin, 12",
+    "latitude": "39.4589733",
+    "longitude": "-6.379194158"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/227",
-    "standardname": "227 - Pierre de Coubertin, 34"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/227",
+    "standardname": "Pierre de Coubertin, 34",
+    "latitude": "39.45652648",
+    "longitude": "-6.378553843"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/228",
-    "standardname": "228 - Pierre de Coubertin (cruce c/ Potosi)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/228",
+    "standardname": "Pierre de Coubertin (cruce c/ Potosi)",
+    "latitude": "39.45382657",
+    "longitude": "-6.377876585"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/229",
-    "standardname": "229 - Cueva del Conejar, 13"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/229",
+    "standardname": "Cueva del Conejar, 13",
+    "latitude": "39.45358321",
+    "longitude": "-6.374678422"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/230",
-    "standardname": "230 - Casaplata (Mesta, 26)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/230",
+    "standardname": "Casaplata (Mesta, 26)",
+    "latitude": "39.45176443",
+    "longitude": "-6.373526641"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/231",
-    "standardname": "231 - Trashumancia, 1"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/231",
+    "standardname": "Trashumancia, 1",
+    "latitude": "39.45334909",
+    "longitude": "-6.375082321"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/232",
-    "standardname": "232 - Arsenio Gallego (fte 54)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/232",
+    "standardname": "Arsenio Gallego (fte 54)",
+    "latitude": "39.48789479",
+    "longitude": "-6.371760029"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/233",
-    "standardname": "233 - Juan Manuel Rozas, 10"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/233",
+    "standardname": "Juan Manuel Rozas, 10",
+    "latitude": "39.47466209",
+    "longitude": "-6.355136015"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/234",
-    "standardname": "234 - Res. Universidad (J. M. Rozas fte. 46)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/234",
+    "standardname": "Res. Universidad (J. M. Rozas fte. 46)",
+    "latitude": "39.47469181",
+    "longitude": "-6.351694146"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/235",
-    "standardname": "235 - La Palacina"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/235",
+    "standardname": "La Palacina",
+    "latitude": "39.47288273",
+    "longitude": "-6.363653968"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/236",
-    "standardname": "236 - Av. Constitucion (frente cruce c/ Logrosan)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/236",
+    "standardname": "Av. Constitucion (frente cruce c/ Logrosan)",
+    "latitude": "39.44937728",
+    "longitude": "-6.389129034"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/237",
-    "standardname": "237 - Av. Constitucion (rotonda c/ Santa Cristina)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/237",
+    "standardname": "Av. Constitucion (rotonda c/ Santa Cristina)",
+    "latitude": "39.44743946",
+    "longitude": "-6.391897209"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/238",
-    "standardname": "238 - Santa Cristina (cruce Av. Constitucion)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/238",
+    "standardname": "Santa Cristina (cruce Av. Constitucion)",
+    "latitude": "39.44716173",
+    "longitude": "-6.391965675"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/239",
-    "standardname": "239 - Av. Constitucion (cruce c/ Logrosan)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/239",
+    "standardname": "Av. Constitucion (cruce c/ Logrosan)",
+    "latitude": "39.4493114",
+    "longitude": "-6.389003676"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/240",
-    "standardname": "240 - Av. Rio Tiber, 2"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/240",
+    "standardname": "Av. Rio Tiber, 2",
+    "latitude": "39.45030206",
+    "longitude": "-6.388989891"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/241",
-    "standardname": "241 - Av. Rio Tiber (cruce c/ Rodano)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/241",
+    "standardname": "Av. Rio Tiber (cruce c/ Rodano)",
+    "latitude": "39.45117787",
+    "longitude": "-6.391885466"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/243",
-    "standardname": "243 - Bda. S. S. Pedro (C/Mina Estrella)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/243",
+    "standardname": "Bda. S. S. Pedro (C/Mina Estrella)",
+    "latitude": "39.44575511",
+    "longitude": "-6.39351708"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/245",
-    "standardname": "245 - Octavio Paz (fte. Cruce Luis Alvarez Lencero)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/245",
+    "standardname": "Octavio Paz (fte. Cruce Luis Alvarez Lencero)",
+    "latitude": "39.47082619",
+    "longitude": "-6.397916447"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/246",
-    "standardname": "246 - Av. de las Arenas (cruce c/ Dalia)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/246",
+    "standardname": "Av. de las Arenas (cruce c/ Dalia)",
+    "latitude": "39.46770735",
+    "longitude": "-6.399043897"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/248",
-    "standardname": "248 - Av. Extremadura (cementerio)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/248",
+    "standardname": "Av. Extremadura (cementerio)",
+    "latitude": "39.48237067",
+    "longitude": "-6.369294258"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/249",
-    "standardname": "249 - Av. Extremadura (fte. cementerio)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/249",
+    "standardname": "Av. Extremadura (fte. cementerio)",
+    "latitude": "39.48242894",
+    "longitude": "-6.369082803"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/250",
-    "standardname": "250 - Av. Extremadura (fte. cruce Rafael Lucenqui)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/250",
+    "standardname": "Av. Extremadura (fte. cruce Rafael Lucenqui)",
+    "latitude": "39.48427923",
+    "longitude": "-6.366850646"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/251",
-    "standardname": "251 - Av. Extremadura (cruce Rafael Lucenqui)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/251",
+    "standardname": "Av. Extremadura (cruce Rafael Lucenqui)",
+    "latitude": "39.48432819",
+    "longitude": "-6.367023185"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/252",
-    "standardname": "252 - Arsenio Gallego, 54"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/252",
+    "standardname": "Arsenio Gallego, 54",
+    "latitude": "39.48806791",
+    "longitude": "-6.371846518"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/253",
-    "standardname": "253 - Avutardas, 7"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/253",
+    "standardname": "Avutardas, 7",
+    "latitude": "39.48838527",
+    "longitude": "-6.376322373"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/254",
-    "standardname": "254 - Arsenio Gallego (Centro de Salud)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/254",
+    "standardname": "Arsenio Gallego (Centro de Salud)",
+    "latitude": "39.48659854",
+    "longitude": "-6.365042446"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/255",
-    "standardname": "255 - Arsenio Gallego, 21"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/255",
+    "standardname": "Arsenio Gallego, 21",
+    "latitude": "39.48769589",
+    "longitude": "-6.368942324"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/256",
-    "standardname": "256 - Arsenio Gallego (fte. 21)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/256",
+    "standardname": "Arsenio Gallego (fte. 21)",
+    "latitude": "39.48790555",
+    "longitude": "-6.369050681"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/257",
-    "standardname": "257 - Av. Cuatros Lugares impares (cruce c/ Tomillos)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/257",
+    "standardname": "Av. Cuatros Lugares impares (cruce c/ Tomillos)",
+    "latitude": "39.49740259",
+    "longitude": "-6.359599398"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/258",
-    "standardname": "258 - Av. Cuatros Lugares pares (cruce c/ Tomillos)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/258",
+    "standardname": "Av. Cuatros Lugares pares (cruce c/ Tomillos)",
+    "latitude": "39.4976684",
+    "longitude": "-6.359403287"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/259",
-    "standardname": "259 - Av. Cervantes (cruce Av. Maltravieso)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/259",
+    "standardname": "Av. Cervantes (cruce Av. Maltravieso)",
+    "latitude": "39.45627861",
+    "longitude": "-6.368383068"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/260",
-    "standardname": "260 - Cuevas del Escoural"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/260",
+    "standardname": "Cuevas del Escoural",
+    "latitude": "39.45673831",
+    "longitude": "-6.36759875"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/262",
-    "standardname": "262 - Rincon de Ballesteros"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/262",
+    "standardname": "Rincon de Ballesteros",
+    "latitude": "39.19667533",
+    "longitude": "-6.391960376"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/263",
-    "standardname": "263 - Av. Hispanidad (fte. Estacion autobus)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/263",
+    "standardname": "Av. Hispanidad (fte. Estacion Autobuses)",
+    "latitude": "39.46110471",
+    "longitude": "-6.38222884"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/267",
-    "standardname": "267 - Av. Virgen de Guadalupe (C.D. El Peru)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/267",
+    "standardname": "Av. Virgen de Guadalupe (C.D. El Peru)",
+    "latitude": "39.46806501",
+    "longitude": "-6.384873646"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/268",
-    "standardname": "268 - Residencia de Mayores, N-630"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/268",
+    "standardname": "Residencia de Mayores, N-630",
+    "latitude": "39.41745765",
+    "longitude": "-6.355198348"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/270",
-    "standardname": "270 - C/Arsenio Gallego (Parking Mercadona)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/270",
+    "standardname": "C/Arsenio Gallego (Parking Mercadona)",
+    "latitude": "39.48784108",
+    "longitude": "-6.368192762"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/271",
-    "standardname": "271 - C/Arsenio Gallego (fte. Parking Mercadona)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/271",
+    "standardname": "C/Arsenio Gallego (fte. Parking Mercadona)",
+    "latitude": "39.48769706",
+    "longitude": "-6.368198195"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/272",
-    "standardname": "272 - Av.Cuatro Lugares impares (cr.Severo Ochoa)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/272",
+    "standardname": "Av.Cuatro Lugares impares (cr.Severo Ochoa)",
+    "latitude": "39.49730741",
+    "longitude": "-6.36453324"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/273",
-    "standardname": "273 - Av.Cuatro Lugares pares (cr. Severo Ochoa)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/273",
+    "standardname": "Av.Cuatro Lugares pares (cr. Severo Ochoa)",
+    "latitude": "39.49746095",
+    "longitude": "-6.364550693"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/274",
-    "standardname": "274 - Av. Cuatro Lugares, 32"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/274",
+    "standardname": "Av. Cuatro Lugares, 32",
+    "latitude": "39.49694337",
+    "longitude": "-6.358023769"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/275",
-    "standardname": "275 - C/Ocho de marzo, 11"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/275",
+    "standardname": "C/Ocho de marzo, 11",
+    "latitude": "39.49212051",
+    "longitude": "-6.356299611"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/276",
-    "standardname": "276 - C/Ocho de Marzo (fte. num 11)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/276",
+    "standardname": "C/Ocho de Marzo (fte. num 11)",
+    "latitude": "39.49187801",
+    "longitude": "-6.356332056"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/277",
-    "standardname": "277 - El Junquillo (C/Dalia fte. num 12)"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/277",
+    "standardname": "El Junquillo (C/Dalia fte. num 12)",
+    "latitude": "39.46444029",
+    "longitude": "-6.398782056"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/278",
-    "standardname": "278 - Camping de Caceres"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/278",
+    "standardname": "Camping de Caceres",
+    "latitude": "39.48832889",
+    "longitude": "-6.413994287"
   },
   {
-    "@id": "http://caceres.linkedconnections.org/autobus/stops/500",
-    "standardname": "500 - Garaje"
+    "@id": "http://caceres.linkedconnections.org/bus/stops/500",
+    "standardname": "Garaje",
+    "latitude": "39.4891583",
+    "longitude": "-6.419288551"
   }
 ]

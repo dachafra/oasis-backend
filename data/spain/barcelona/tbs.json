@@ -1,0 +1,164 @@
+[
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/20",
+    "standardname": "Ciutadella | Vila Olímpica",
+    "latitude": "41.387614",
+    "longitude": "2.191922"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/21",
+    "standardname": "Wellington",
+    "latitude": "41.390167",
+    "longitude": "2.188483"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/22",
+    "standardname": "Marina",
+    "latitude": "41.394061",
+    "longitude": "2.186917"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/2",
+    "standardname": "Auditori | Teatre Nacional",
+    "latitude": "41.397536",
+    "longitude": "2.186892"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/3",
+    "standardname": "Glòries",
+    "latitude": "41.401681",
+    "longitude": "2.186897"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/4",
+    "standardname": "Ca l'Aranyó",
+    "latitude": "41.40445",
+    "longitude": "2.1915"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/5",
+    "standardname": "Pere IV",
+    "latitude": "41.406144",
+    "longitude": "2.198247"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/6",
+    "standardname": "Fluvià",
+    "latitude": "41.407822",
+    "longitude": "2.204908"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/7",
+    "standardname": "Selva de Mar",
+    "latitude": "41.409194",
+    "longitude": "2.210447"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/8",
+    "standardname": "El Maresme",
+    "latitude": "41.410489",
+    "longitude": "2.215631"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/9",
+    "standardname": "Fòrum",
+    "latitude": "41.411828",
+    "longitude": "2.21985"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/10",
+    "standardname": "Campus Diagonal-Besòs",
+    "latitude": "41.415247",
+    "longitude": "2.222928"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/29",
+    "standardname": "Port Fòrum",
+    "latitude": "41.418872",
+    "longitude": "2.226161"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/30",
+    "standardname": "Estació de Sant Adrià",
+    "latitude": "41.423953",
+    "longitude": "2.23055"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/3bis",
+    "standardname": "La Farinera",
+    "latitude": "41.4042",
+    "longitude": "2.188581"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/23",
+    "standardname": "Can Jaumandreu",
+    "latitude": "41.408108",
+    "longitude": "2.193597"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/24",
+    "standardname": "Espronceda",
+    "latitude": "41.411361",
+    "longitude": "2.197942"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/25",
+    "standardname": "Sant Martí de Provençals",
+    "latitude": "41.416464",
+    "longitude": "2.204744"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/26",
+    "standardname": "Besòs",
+    "latitude": "41.420067",
+    "longitude": "2.209556"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/27",
+    "standardname": "Alfons el Magnànim",
+    "latitude": "41.417194",
+    "longitude": "2.213569"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/28",
+    "standardname": "Parc del Besòs",
+    "latitude": "41.419431",
+    "longitude": "2.217633"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/13",
+    "standardname": "La Catalana",
+    "latitude": "41.42265",
+    "longitude": "2.221953"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/14",
+    "standardname": "Sant Joan Baptista",
+    "latitude": "41.427386",
+    "longitude": "2.225403"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/16",
+    "standardname": "Encants de Sant Adrià",
+    "latitude": "41.430244",
+    "longitude": "2.222606"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/17",
+    "standardname": "Sant Roc",
+    "latitude": "41.434944",
+    "longitude": "2.227597"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/19",
+    "standardname": "Gorg",
+    "latitude": "41.439967",
+    "longitude": "2.233219"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbs/stops/11",
+    "standardname": "La Mina",
+    "latitude": "41.418386",
+    "longitude": "2.221"
+  }
+]

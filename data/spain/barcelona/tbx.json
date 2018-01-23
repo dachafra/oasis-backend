@@ -1,0 +1,176 @@
+[
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/1",
+    "standardname": "Francesc Macià",
+    "latitude": "41.392206",
+    "longitude": "2.143175"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/2",
+    "standardname": "L'Illa",
+    "latitude": "41.390508",
+    "longitude": "2.136522"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/3",
+    "standardname": "Numància",
+    "latitude": "41.389342",
+    "longitude": "2.131953"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/4",
+    "standardname": "Maria Cristina",
+    "latitude": "41.387972",
+    "longitude": "2.126508"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/5",
+    "standardname": "Pius XII",
+    "latitude": "41.386719",
+    "longitude": "2.121603"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/8",
+    "standardname": "Palau Reial",
+    "latitude": "41.385919",
+    "longitude": "2.118461"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/9",
+    "standardname": "Zona Universitària",
+    "latitude": "41.384267",
+    "longitude": "2.114436"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/10",
+    "standardname": "Avinguda de Xile",
+    "latitude": "41.380739",
+    "longitude": "2.114836"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/11",
+    "standardname": "Ernest Lluch",
+    "latitude": "41.376483",
+    "longitude": "2.110786"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/12",
+    "standardname": "Can Rigal",
+    "latitude": "41.376078",
+    "longitude": "2.105928"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/13",
+    "standardname": "Ca n'Oliveres",
+    "latitude": "41.376606",
+    "longitude": "2.098408"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/13bis",
+    "standardname": "Can Clota",
+    "latitude": "41.376956",
+    "longitude": "2.093522"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/14",
+    "standardname": "Pont d'Esplugues",
+    "latitude": "41.376828",
+    "longitude": "2.088606"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/15",
+    "standardname": "La Sardana",
+    "latitude": "41.372789",
+    "longitude": "2.084003"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/16",
+    "standardname": "Montesa",
+    "latitude": "41.369563",
+    "longitude": "2.080928"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/17",
+    "standardname": "El Pedró",
+    "latitude": "41.365317",
+    "longitude": "2.076675"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/18",
+    "standardname": "Ignasi Iglésias",
+    "latitude": "41.361242",
+    "longitude": "2.072672"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/19",
+    "standardname": "Cornellà Centre",
+    "latitude": "41.357442",
+    "longitude": "2.069917"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/20",
+    "standardname": "Les Aigües",
+    "latitude": "41.356672",
+    "longitude": "2.066069"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/21",
+    "standardname": "Fontsanta | Fatjó",
+    "latitude": "41.360333",
+    "longitude": "2.062217"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/22",
+    "standardname": "Bon Viatge",
+    "latitude": "41.364608",
+    "longitude": "2.058817"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/25",
+    "standardname": "La Fontsanta",
+    "latitude": "41.367794",
+    "longitude": "2.062953"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/26",
+    "standardname": "Centre Miquel Martí i Pol",
+    "latitude": "41.368658",
+    "longitude": "2.071197"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/Baixador",
+    "standardname": "Llevant-Les Planes",
+    "latitude": "41.370869",
+    "longitude": "2.076117"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/28",
+    "standardname": "Hospital de Sant Joan Despí | TV3",
+    "latitude": "41.372386",
+    "longitude": "2.075678"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/29",
+    "standardname": "Rambla de Sant Just",
+    "latitude": "41.378828",
+    "longitude": "2.07505"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/30",
+    "standardname": "Walden",
+    "latitude": "41.379719",
+    "longitude": "2.066897"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/31",
+    "standardname": "Torreblanca",
+    "latitude": "41.379758",
+    "longitude": "2.060825"
+  },
+  {
+    "@id": "http://barcelona.linkedconnections.org/tbx/stops/32",
+    "standardname": "Sant Feliu | Consell Comarcal",
+    "latitude": "41.379356",
+    "longitude": "2.053372"
+  }
+]
