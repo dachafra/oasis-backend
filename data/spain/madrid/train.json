@@ -66,42 +66,6 @@
     "longitude": "-3.69076268"
   },
   {
-    "@id": "http://madrid.linkedconnections.org/train/stops/est_90_13",
-    "standardname": "Méndez Álvaro Estación Sur",
-    "latitude": "40.39538",
-    "longitude": "-3.67819"
-  },
-  {
-    "@id": "http://madrid.linkedconnections.org/train/stops/est_90_18",
-    "standardname": "Intercambiador De Príncipe Pío",
-    "latitude": "40.42107",
-    "longitude": "-3.72037"
-  },
-  {
-    "@id": "http://madrid.linkedconnections.org/train/stops/est_90_25",
-    "standardname": "Chamartín",
-    "latitude": "40.4721",
-    "longitude": "-3.68269"
-  },
-  {
-    "@id": "http://madrid.linkedconnections.org/train/stops/est_90_33",
-    "standardname": "Aeropuerto T4",
-    "latitude": "40.49176",
-    "longitude": "-3.59356"
-  },
-  {
-    "@id": "http://madrid.linkedconnections.org/train/stops/est_90_54",
-    "standardname": "Atocha-Renfe",
-    "latitude": "40.40659",
-    "longitude": "-3.68944"
-  },
-  {
-    "@id": "http://madrid.linkedconnections.org/train/stops/est_90_71",
-    "standardname": "Nuevos Ministerios",
-    "latitude": "40.44662",
-    "longitude": "-3.69246"
-  },
-  {
     "@id": "http://madrid.linkedconnections.org/train/stops/par_5_10",
     "standardname": "Asamblea De Madrid-Entrevias",
     "latitude": "40.38168116",
@@ -330,12 +294,6 @@
     "longitude": "-4.045966653"
   },
   {
-    "@id": "http://madrid.linkedconnections.org/train/stops/est_90_58",
-    "standardname": "Puerta Del Sol",
-    "latitude": "40.41688",
-    "longitude": "-3.70331"
-  },
-  {
     "@id": "http://madrid.linkedconnections.org/train/stops/par_5_15",
     "standardname": "Cantoblanco Universidad",
     "latitude": "40.54379369",
@@ -532,12 +490,6 @@
     "standardname": "Zarzaquemada",
     "latitude": "40.34086517",
     "longitude": "-3.748210984"
-  },
-  {
-    "@id": "http://madrid.linkedconnections.org/train/stops/est_90_1",
-    "standardname": "Aluche",
-    "latitude": "40.38563",
-    "longitude": "-3.76085"
   },
   {
     "@id": "http://madrid.linkedconnections.org/train/stops/par_5_13",
