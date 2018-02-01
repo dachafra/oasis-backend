@@ -1,3 +1,4 @@
 /node_modules
 .idea
+stations.sqlite
 .DS_Store

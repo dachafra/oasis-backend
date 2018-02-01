@@ -173,24 +173,17 @@ const getStation = (query) => {
  * Also checks if data is still in the database
  */
 const fillDatabase = () => {
-    /*  CRTM TYPES
-        8 - bus
-        6 - emt-bus (citybusses)
-        4 - metro
-        10 - tram
-        5 - train */
-
     //importJson("data/belgium/sncb.json", "station", "train", "sncb");
     //importJson("data/spain/madrid/emt.json", null, "bus", "emt", true);
     //importJson("data/spain/laspalmasdegrancanaria.json", null, "bus", "lpgc", true);
     //importJson("data/belgium/delijn.json", null, "bus", "delijn", true);
     //importJson("data/spain/madrid/metro.json", null, "metro", "crtm_metro", true);
-    importJson("data/spain/madrid/train.json", null, "train", "crtm_train", true);
-    importJson("data/spain/madrid/tram.json", null, "tram", "crtm_tram", true);
+    importJson("data/spain/madrid/train.json", null, "train", "madrid_train", true);
+    importJson("data/spain/madrid/tram.json", null, "tram", "madrid_tram", true);
     importJson("data/spain/barcelona/tbs.json",null, "tram", "barcelona_tbs", true);
     importJson("data/spain/barcelona/tbx.json",null, "tram", "barcelona_tbx", true);
-    importJson("data/spain/barcelona/amb.json",null, "bus", "amb", true);
-    importJson("data/spain/caceres.json", null, "bus", "caceres", true);
+    importJson("data/spain/barcelona/amb.json",null, "bus", "barcelona_amb", true);
+    importJson("data/spain/caceres.json", null, "bus", "caceres_subus", true);
 }
 
 /**

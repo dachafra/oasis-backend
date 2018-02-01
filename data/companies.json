@@ -1,0 +1,26 @@
+[
+  {
+    "standardname": "Madrid - CRTM (Train)",
+    "id": "madrid_train"
+  },
+  {
+    "standardname": "Madrid - CRTM (Tram)",
+    "id": "madrid_tram"
+  },
+  {
+    "standardname": "Barcelona - AMB (Bus)",
+    "id": "barcelona_amb"
+  },
+  {
+    "standardname": "Barcelona - TRAM (TBS)",
+    "id": "barcelona_tbs"
+  },
+  {
+    "standardname": "Barcelona - TRAM (TBX)",
+    "id": "barcelona_tbx"
+  },
+  {
+    "standardname": "Caceres - SuBusCC (Bus)",
+    "id": "caceres_subus"
+  }
+]
